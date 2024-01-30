@@ -10,6 +10,8 @@
 
 ![metrics.plugin.isocalendar.svg](/metrics.plugin.isocalendar.svg)
 
+![metrics.plugin.languages.svg](/metrics.plugin.languages.svg)
+
 ![metrics.plugin.wakatime.svg](/metrics.plugin.wakatime.svg)
 
 ![metrics.plugin.pagespeed-eplus.dev.svg](/metrics.plugin.pagespeed-eplus.dev.svg)

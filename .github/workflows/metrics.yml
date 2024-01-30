@@ -19,6 +19,8 @@ jobs:
       uses: lowlighter/metrics@latest
       with:
         filename: metrics.classic.svg
+        optimize: svg
+        experimental_features: --optimize-svg
         token: ${{ secrets.METRICS_TOKEN }}
         base: header, activity, community, repositories, metadata
         config_timezone: Asia/Saigon
@@ -27,6 +29,8 @@ jobs:
       uses: lowlighter/metrics@latest
       with:
         filename: metrics.plugin.achievements.svg
+        optimize: svg
+        experimental_features: --optimize-svg
         token: ${{ secrets.METRICS_TOKEN }}
         base: ""
         plugin_achievements: yes
@@ -35,6 +39,8 @@ jobs:
       uses: lowlighter/metrics@latest
       with:
         filename: metrics.plugin.achievements.compact.svg
+        optimize: svg
+        experimental_features: --optimize-svg
         token: ${{ secrets.METRICS_TOKEN }}
         base: ""
         plugin_achievements: yes
@@ -46,6 +52,8 @@ jobs:
       uses: lowlighter/metrics@latest
       with:
         filename: metrics.plugin.activity.svg
+        optimize: svg
+        experimental_features: --optimize-svg
         token: ${{ secrets.METRICS_TOKEN }}
         base: ""
         plugin_activity: yes
@@ -56,6 +64,8 @@ jobs:
       uses: lowlighter/metrics@latest
       with:
         filename: metrics.plugin.isocalendar.svg
+        optimize: svg
+        experimental_features: --optimize-svg
         token: ${{ secrets.METRICS_TOKEN }}
         base: ""
         plugin_isocalendar: yes
@@ -63,6 +73,8 @@ jobs:
       uses: lowlighter/metrics@latest
       with:
         filename: metrics.plugin.people.followers.svg
+        optimize: svg
+        experimental_features: --optimize-svg
         token: ${{ secrets.METRICS_TOKEN }}
         base: ""
         plugin_people: yes
@@ -71,6 +83,8 @@ jobs:
       uses: lowlighter/metrics@latest
       with:
         filename: metrics.plugin.languages.svg
+        optimize: svg
+        experimental_features: --optimize-svg
         token: ${{ secrets.METRICS_TOKEN }}
         base: ""
         plugin_languages: yes
@@ -78,6 +92,8 @@ jobs:
       uses: lowlighter/metrics@latest
       with:
         filename: metrics.plugin.wakatime.svg
+        optimize: svg
+        experimental_features: --optimize-svg
         token: NOT_NEEDED
         base: ""
         plugin_wakatime: yes
@@ -87,6 +103,9 @@ jobs:
       uses: lowlighter/metrics@latest
       with:
         filename: metrics.plugin.pagespeed-eplus.dev.svg
+        optimize: svg
+        experimental_features: --optimize-svg
+        config_output: png
         token: NOT_NEEDED
         base: ""
         plugin_pagespeed: yes
