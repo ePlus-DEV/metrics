@@ -1,17 +1,17 @@
 # Metrics
 
-![metrics.classic.svg](/metrics.classic.svg)
+![metrics.classic.svg](/img/classic.svg)
 
-![metrics.plugin.achievements.compact.svg](/metrics.plugin.achievements.compact.svg)
+![img/achievements.compact.svg](/img/achievements.compact.svg)
 
-![metrics.plugin.achievements.svg](/metrics.plugin.achievements.svg)
+![img/achievements.svg](/img/achievements.svg)
 
-![metrics.plugin.activity.svg](/metrics.plugin.activity.svg)
+![img/activity.svg](/img/activity.svg)
 
-![metrics.plugin.isocalendar.svg](/metrics.plugin.isocalendar.svg)
+![img/isocalendar.svg](/img/isocalendar.svg)
 
-![metrics.plugin.languages.svg](/metrics.plugin.languages.svg)
+![img/languages.svg](/img/languages.svg)
 
-![metrics.plugin.wakatime.svg](/metrics.plugin.wakatime.svg)
+![img/wakatime.svg](/img/wakatime.svg)
 
-![metrics.plugin.pagespeed-eplus.dev.svg](/metrics.plugin.pagespeed-eplus.dev.svg)
+![img/pagespeed-eplus.dev.svg](/img/pagespeed-eplus.dev.svg)
