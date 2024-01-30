@@ -18,7 +18,7 @@ jobs:
     - name: Classic
       uses: lowlighter/metrics@latest
       with:
-        filename: metrics.classic.svg
+        filename: img/classic.svg
         optimize: svg
         experimental_features: --optimize-svg
         token: ${{ secrets.METRICS_TOKEN }}
@@ -28,7 +28,7 @@ jobs:
     - name: Achievements display
       uses: lowlighter/metrics@latest
       with:
-        filename: metrics.plugin.achievements.svg
+        filename: img/achievements.svg
         optimize: svg
         experimental_features: --optimize-svg
         token: ${{ secrets.METRICS_TOKEN }}
@@ -38,7 +38,7 @@ jobs:
     - name: Achievements Compact display
       uses: lowlighter/metrics@latest
       with:
-        filename: metrics.plugin.achievements.compact.svg
+        filename: img/achievements.compact.svg
         optimize: svg
         experimental_features: --optimize-svg
         token: ${{ secrets.METRICS_TOKEN }}
@@ -51,7 +51,7 @@ jobs:
     - name: Recent activity
       uses: lowlighter/metrics@latest
       with:
-        filename: metrics.plugin.activity.svg
+        filename: img/activity.svg
         optimize: svg
         experimental_features: --optimize-svg
         token: ${{ secrets.METRICS_TOKEN }}
@@ -63,7 +63,7 @@ jobs:
     - name: Half-year calendar
       uses: lowlighter/metrics@latest
       with:
-        filename: metrics.plugin.isocalendar.svg
+        filename: img/isocalendar.svg
         optimize: svg
         experimental_features: --optimize-svg
         token: ${{ secrets.METRICS_TOKEN }}
@@ -72,7 +72,7 @@ jobs:
     - name: Followers
       uses: lowlighter/metrics@latest
       with:
-        filename: metrics.plugin.people.followers.svg
+        filename: img/people.followers.svg
         optimize: svg
         experimental_features: --optimize-svg
         token: ${{ secrets.METRICS_TOKEN }}
@@ -82,7 +82,7 @@ jobs:
     - name: Languages most used
       uses: lowlighter/metrics@latest
       with:
-        filename: metrics.plugin.languages.svg
+        filename: img/languages.svg
         optimize: svg
         experimental_features: --optimize-svg
         token: ${{ secrets.METRICS_TOKEN }}
@@ -91,7 +91,7 @@ jobs:
     - name: WakaTime
       uses: lowlighter/metrics@latest
       with:
-        filename: metrics.plugin.wakatime.svg
+        filename: img/wakatime.svg
         optimize: svg
         experimental_features: --optimize-svg
         token: NOT_NEEDED
@@ -102,7 +102,7 @@ jobs:
     - name: PageSpeed to eplus.dev
       uses: lowlighter/metrics@latest
       with:
-        filename: metrics.plugin.pagespeed-eplus.dev.svg
+        filename: img/pagespeed-eplus.dev.svg
         optimize: svg
         experimental_features: --optimize-svg
         token: NOT_NEEDED
