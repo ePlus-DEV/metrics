@@ -16,6 +16,13 @@ jobs:
       contents: write
     steps:
     - uses: lowlighter/metrics@latest
+      name: Classic
+      with:
+        filename: metrics.classic.svg
+        token: ${{ secrets.METRICS_TOKEN }}
+        base: header, repositories
+        plugin_lines: yes
+    - uses: lowlighter/metrics@latest
       name: Achievements display
       with:
         filename: metrics.plugin.achievements.svg
