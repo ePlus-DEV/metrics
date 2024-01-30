@@ -67,6 +67,13 @@ jobs:
         base: ""
         plugin_people: yes
         plugin_people_types: followers
+    - name: Languages most used
+      uses: lowlighter/metrics@latest
+      with:
+        filename: metrics.plugin.languages.svg
+        token: ${{ secrets.METRICS_TOKEN }}
+        base: ""
+        plugin_languages: yes
     - name: WakaTime
       uses: lowlighter/metrics@latest
       with:
