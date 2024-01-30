@@ -105,7 +105,6 @@ jobs:
         filename: metrics.plugin.pagespeed-eplus.dev.svg
         optimize: svg
         experimental_features: --optimize-svg
-        config_output: png
         token: NOT_NEEDED
         base: ""
         plugin_pagespeed: yes
