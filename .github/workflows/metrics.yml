@@ -68,3 +68,12 @@ jobs:
         plugin_wakatime: yes
         plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
         plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+    - name: PageSpeed to eplus.dev
+      uses: lowlighter/metrics@latest
+      with:
+        filename: metrics.plugin.pagespeed-eplus.dev.svg
+        token: NOT_NEEDED
+        base: ""
+        plugin_pagespeed: yes
+        plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
+        plugin_pagespeed_url: https://eplus.dev
