@@ -1,12 +1,10 @@
 name: Get Metrics
-
 on:
   push:
     branches:
       - main
-
 jobs:
-  notice:
+  metrics:
     name: Detailed display
     uses: lowlighter/metrics@latest
     with:
