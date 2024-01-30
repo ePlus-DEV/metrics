@@ -1,6 +1,8 @@
 # Metrics
 
-![metrics.classic.svg](/img/classic.svg)
+![img/classic.svg](/img/classic.svg)
+
+![img/classic.svg](/img/people.followers.svg)
 
 ![img/achievements.compact.svg](/img/achievements.compact.svg)
 
