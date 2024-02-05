@@ -1,111 +1,121 @@
 name: Get Metrics
 on:
   # Schedule daily updates
-  schedule: [{cron: "*/5 * * * *"}]
+  schedule: [{ cron: "*/5 * * * *" }]
   # (optional) Run workflow manually
   workflow_dispatch:
   # (optional) Run workflow when pushing on master/main
-  push: {branches: ["master", "main"]}
+  push: { branches: ["master", "main"] }
 jobs:
   github-metrics:
     name: Github metrics
     runs-on: ubuntu-latest
-    environment: 
+    environment:
       name: production
     permissions:
       contents: write
     steps:
-    - name: Classic
-      uses: lowlighter/metrics@latest
-      with:
-        filename: img/classic.svg
-        optimize: svg
-        experimental_features: --optimize-svg
-        token: ${{ secrets.METRICS_TOKEN }}
-        base: header, activity, community, repositories, metadata
-        config_timezone: Asia/Saigon
-        plugin_lines: yes
-    - name: Achievements display
-      uses: lowlighter/metrics@latest
-      with:
-        filename: img/achievements.svg
-        optimize: svg
-        experimental_features: --optimize-svg
-        token: ${{ secrets.METRICS_TOKEN }}
-        base: ""
-        plugin_achievements: yes
-        plugin_achievements_only: polyglot, stargazer, deployer, member, maintainer, developer
-    - name: Achievements Compact display
-      uses: lowlighter/metrics@latest
-      with:
-        filename: img/achievements.compact.svg
-        optimize: svg
-        experimental_features: --optimize-svg
-        token: ${{ secrets.METRICS_TOKEN }}
-        base: ""
-        plugin_achievements: yes
-        plugin_achievements_only: >-
-          polyglot, stargazer, deployer, member, maintainer, developer
-        plugin_achievements_display: compact
-        plugin_achievements_threshold: X
-    - name: Recent activity
-      uses: lowlighter/metrics@latest
-      with:
-        filename: img/activity.svg
-        optimize: svg
-        experimental_features: --optimize-svg
-        token: ${{ secrets.METRICS_TOKEN }}
-        base: ""
-        plugin_activity: yes
-        plugin_activity_limit: 5
-        plugin_activity_days: 0
-    - name: Half-year calendar
-      uses: lowlighter/metrics@latest
-      with:
-        filename: img/isocalendar.svg
-        optimize: svg
-        experimental_features: --optimize-svg
-        token: ${{ secrets.METRICS_TOKEN }}
-        base: ""
-        plugin_isocalendar: yes
-    - name: Followers
-      uses: lowlighter/metrics@latest
-      with:
-        filename: img/people.followers.svg
-        optimize: svg
-        experimental_features: --optimize-svg
-        token: ${{ secrets.METRICS_TOKEN }}
-        base: ""
-        plugin_people: yes
-        plugin_people_types: followers
-    - name: Languages most used
-      uses: lowlighter/metrics@latest
-      with:
-        filename: img/languages.svg
-        optimize: svg
-        experimental_features: --optimize-svg
-        token: ${{ secrets.METRICS_TOKEN }}
-        base: ""
-        plugin_languages: yes
-    - name: WakaTime
-      uses: lowlighter/metrics@latest
-      with:
-        filename: img/wakatime.svg
-        optimize: svg
-        experimental_features: --optimize-svg
-        token: NOT_NEEDED
-        base: ""
-        plugin_wakatime: yes
-        plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
-        plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
-    - name: PageSpeed to eplus.dev
-      uses: lowlighter/metrics@latest
-      with:
-        filename: img/pagespeed-eplus.dev.svg
-        optimize: svg
-        experimental_features: --optimize-svg
-        token: NOT_NEEDED
-        base: ""
-        plugin_pagespeed: yes
-        plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
-        plugin_pagespeed_url: https://eplus.dev
+      - name: Classic
+        uses: lowlighter/metrics@latest
+        with:
+          filename: img/classic.svg
+          optimize: svg
+          experimental_features: --optimize-svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Saigon
+          plugin_lines: yes
+      - name: Achievements display
+        uses: lowlighter/metrics@latest
+        with:
+          filename: img/achievements.svg
+          optimize: svg
+          experimental_features: --optimize-svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_only: polyglot, stargazer, deployer, member, maintainer, developer
+      - name: Achievements Compact display
+        uses: lowlighter/metrics@latest
+        with:
+          filename: img/achievements.compact.svg
+          optimize: svg
+          experimental_features: --optimize-svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_only: >-
+            polyglot, stargazer, deployer, member, maintainer, developer
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: X
+      - name: Recent activity
+        uses: lowlighter/metrics@latest
+        with:
+          filename: img/activity.svg
+          optimize: svg
+          experimental_features: --optimize-svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 0
+      - name: Topics Icons
+        uses: lowlighter/metrics@latest
+        with:
+          filename: img/topics.icons.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_topics: yes
+          plugin_topics_limit: 0
+          plugin_topics_mode: icons
+      - name: Half-year calendar
+        uses: lowlighter/metrics@latest
+        with:
+          filename: img/isocalendar.svg
+          optimize: svg
+          experimental_features: --optimize-svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_isocalendar: yes
+      - name: Followers
+        uses: lowlighter/metrics@latest
+        with:
+          filename: img/people.followers.svg
+          optimize: svg
+          experimental_features: --optimize-svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_people: yes
+          plugin_people_types: followers
+      - name: Languages most used
+        uses: lowlighter/metrics@latest
+        with:
+          filename: img/languages.svg
+          optimize: svg
+          experimental_features: --optimize-svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_languages: yes
+
+      - name: WakaTime
+        uses: lowlighter/metrics@latest
+        with:
+          filename: img/wakatime.svg
+          optimize: svg
+          experimental_features: --optimize-svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_wakatime: yes
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+      - name: PageSpeed to eplus.dev
+        uses: lowlighter/metrics@latest
+        with:
+          filename: img/pagespeed-eplus.dev.svg
+          optimize: svg
+          experimental_features: --optimize-svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_pagespeed: yes
+          plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
+          plugin_pagespeed_url: https://eplus.dev
