@@ -59,15 +59,6 @@ jobs:
           plugin_activity: yes
           plugin_activity_limit: 5
           plugin_activity_days: 0
-      - name: Topics Icons
-        uses: lowlighter/metrics@latest
-        with:
-          filename: img/topics.icons.svg
-          token: NOT_NEEDED
-          base: ""
-          plugin_topics: yes
-          plugin_topics_limit: 0
-          plugin_topics_mode: icons
       - name: Half-year calendar
         uses: lowlighter/metrics@latest
         with:
