@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="361" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="678" class="">
 
   <defs><style/></defs>
   <style data-optimizable="true">/* SVG global context */
@@ -1770,7 +1770,212 @@
                     
                     
                       <div class="commit">
-                        <div class="sha">#98bf6f2</div>
+                        <div class="sha">#767c3ef</div>
+                        <div class="message">Update views</div>
+                      </div>
+                    
+                  </div>
+                
+                
+                
+                
+                
+              </section>
+            </div>
+          
+            <div class="row fill-width">
+              <section class="activity">
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                  <div class="field">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
+                    <div class="content">
+                      Pushed 157 commits in <span class="repo">hoangsvit/WingetUI</span>
+                    </div>
+                  </div>
+                  <div class="details">
+                    
+                      <div>on branch <span class="code">main</span></div>
+                    
+                    
+                      <div class="commit">
+                        <div class="sha">#facfddc</div>
+                        <div class="message">Improvements to the non-fatal error handler</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#ae1f760</div>
+                        <div class="message">Merge pull request #1867 from marticliment/pull-request/update-translation
+
+Update translations from Tolgee</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#72fe3e3</div>
+                        <div class="message">Update translations from Tolgee</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#4dc2abf</div>
+                        <div class="message">Update update-tolgee.yml</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#e4867e3</div>
+                        <div class="message">Better logging</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#4a65f40</div>
+                        <div class="message">Add better source logging</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#5118c0d</div>
+                        <div class="message">Prevent setting from doing the opposite</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#a066890</div>
+                        <div class="message">Merge branch 'main' of https://github.com/marticliment/WingetUI</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#88d0ce5</div>
+                        <div class="message">Better Package Details logging</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#e3b438e</div>
+                        <div class="message">Add banner warning about name change</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#8745df5</div>
+                        <div class="message">Update MainWindow.xaml.cs</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#5966ef9</div>
+                        <div class="message">Prevent crashes when closing the main window (fix #1845)</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#0d68445</div>
+                        <div class="message">Theme improvements (fix #1848)</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#0d89e88</div>
+                        <div class="message">Improve logging</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#973c5f7</div>
+                        <div class="message">Merge branch 'main' of https://github.com/marticliment/WingetUI</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#ea4fbb9</div>
+                        <div class="message">Fix "Skip This Version" menu option (fix #1865)</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#5fbeac0</div>
+                        <div class="message">improvements to .NET</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#678e448</div>
+                        <div class="message">Remove on-purpose breaking line</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#2383e56</div>
+                        <div class="message">Fix UAC dialog not showing under certain scenarios (fix #1862)</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#2b279f2</div>
+                        <div class="message">remove package pins line (fix #1090)</div>
+                      </div>
+                    
+                  </div>
+                
+                
+                
+                
+                
+              </section>
+            </div>
+          
+            <div class="row fill-width">
+              <section class="activity">
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                  <div class="field">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
+                    <div class="content">
+                      Pushed 1 commit in <span class="repo">ePlus-DEV/top-github-users</span>
+                    </div>
+                  </div>
+                  <div class="details">
+                    
+                      <div>on branch <span class="code">main</span></div>
+                    
+                    
+                      <div class="commit">
+                        <div class="sha">#5bc3b79</div>
+                        <div class="message">Update Japan</div>
+                      </div>
+                    
+                  </div>
+                
+                
+                
+                
+                
+              </section>
+            </div>
+          
+            <div class="row fill-width">
+              <section class="activity">
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                  <div class="field">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
+                    <div class="content">
+                      Pushed 1 commit in <span class="repo">hoangsvit/github-profile-views-counter</span>
+                    </div>
+                  </div>
+                  <div class="details">
+                    
+                      <div>on branch <span class="code">main</span></div>
+                    
+                    
+                      <div class="commit">
+                        <div class="sha">#daba10b</div>
                         <div class="message">Update views</div>
                       </div>
                     
@@ -1806,115 +2011,7 @@
                     
                     
                       <div class="commit">
-                        <div class="sha">#b5be9aa</div>
-                        <div class="message">Update views</div>
-                      </div>
-                    
-                  </div>
-                
-                
-                
-                
-                
-              </section>
-            </div>
-          
-            <div class="row fill-width">
-              <section class="activity">
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                  <div class="field">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-                    <div class="content">
-                      Pushed 1 commit in <span class="repo">ePlus-DEV/top-github-users</span>
-                    </div>
-                  </div>
-                  <div class="details">
-                    
-                      <div>on branch <span class="code">main</span></div>
-                    
-                    
-                      <div class="commit">
-                        <div class="sha">#3b3a683</div>
-                        <div class="message">Update Indonesia</div>
-                      </div>
-                    
-                  </div>
-                
-                
-                
-                
-                
-              </section>
-            </div>
-          
-            <div class="row fill-width">
-              <section class="activity">
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                  <div class="field">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-                    <div class="content">
-                      Pushed 1 commit in <span class="repo">ePlus-DEV/freedcamp-bot</span>
-                    </div>
-                  </div>
-                  <div class="details">
-                    
-                      <div>on branch <span class="code">main</span></div>
-                    
-                    
-                      <div class="commit">
-                        <div class="sha">#91eb5ce</div>
-                        <div class="message">Update readme-replacer action</div>
-                      </div>
-                    
-                  </div>
-                
-                
-                
-                
-                
-              </section>
-            </div>
-          
-            <div class="row fill-width">
-              <section class="activity">
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                  <div class="field">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-                    <div class="content">
-                      Pushed 1 commit in <span class="repo">hoangsvit/github-profile-views-counter</span>
-                    </div>
-                  </div>
-                  <div class="details">
-                    
-                      <div>on branch <span class="code">main</span></div>
-                    
-                    
-                      <div class="commit">
-                        <div class="sha">#0c9a20a</div>
+                        <div class="sha">#5c62fc9</div>
                         <div class="message">Update views</div>
                       </div>
                     
