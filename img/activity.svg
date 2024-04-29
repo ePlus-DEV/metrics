@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="361" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="687" class="">
 
   <defs><style/></defs>
   <style data-optimizable="true">/* SVG global context */
@@ -1761,17 +1761,112 @@
                   <div class="field">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
                     <div class="content">
-                      Pushed 1 commit in <span class="repo">hoangsvit/github-profile-views-counter</span>
+                      Pushed 36 commits in <span class="repo">hoangsvit/uptime</span>
                     </div>
                   </div>
                   <div class="details">
                     
-                      <div>on branch <span class="code">main</span></div>
+                      <div>on branch <span class="code">master</span></div>
                     
                     
                       <div class="commit">
-                        <div class="sha">#d88225f</div>
-                        <div class="message">Update views</div>
+                        <div class="sha">#ada112c</div>
+                        <div class="message">🟩 ePlus Dashboard is up (200 in 137 ms) [skip ci] [upptime]</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#997aa93</div>
+                        <div class="message">🟩 ePlus Draw is up (200 in 137 ms) [skip ci] [upptime]</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#7715819</div>
+                        <div class="message">🟩 ePlus Markdown is up (200 in 31 ms) [skip ci] [upptime]</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#beb2698</div>
+                        <div class="message">🟩 ePlus DEV Tools is up (200 in 133 ms) [skip ci] [upptime]</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#077eff4</div>
+                        <div class="message">🟩 ePlus ZingMP3 is up (200 in 383 ms) [skip ci] [upptime]</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#c49e376</div>
+                        <div class="message">🟩 ePlus Top GitHub Users is up (200 in 20 ms) [skip ci] [upptime]</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#1a361ba</div>
+                        <div class="message">🟩 Hỗ trợ hệ thống MWG is up (200 in 164 ms) [skip ci] [upptime]</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#2c97cf3</div>
+                        <div class="message">🟩 ePlus AirDrop is up (200 in 274 ms) [skip ci] [upptime]</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#521952c</div>
+                        <div class="message">🟩 ePlus Cors Anywhere is up (200 in 112 ms) [skip ci] [upptime]</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#e0c1299</div>
+                        <div class="message">🟩 ePlus JSON Crack Plus is up (200 in 156 ms) [skip ci] [upptime]</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#aba73b0</div>
+                        <div class="message">🟩 ePlus JSON Crack is up (200 in 168 ms) [skip ci] [upptime]</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#a651840</div>
+                        <div class="message">🟩 ePlus Analytics is up (200 in 199 ms) [skip ci] [upptime]</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#11ef83a</div>
+                        <div class="message">🟩 Graphql Studio is up (200 in 48 ms) [skip ci] [upptime]</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#58c1410</div>
+                        <div class="message">🟩 ePlus - Free For Dev is up (200 in 52 ms) [skip ci] [upptime]</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#df9f094</div>
+                        <div class="message">🟩 ePlus - Top GitHub is up (200 in 48 ms) [skip ci] [upptime]</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#836a4cf</div>
+                        <div class="message">🟩 ePlus - Top GitHub Users is up (200 in 53 ms) [skip ci] [upptime]</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#7ad3186</div>
+                        <div class="message">🟩 ePlus News is up (200 in 235 ms) [skip ci] [upptime]</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#d857913</div>
+                        <div class="message">🟩 Xe is up (200 in 515 ms) [skip ci] [upptime]</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#05e5887</div>
+                        <div class="message">🟩 ePlus Radio is up (200 in 125 ms) [skip ci] [upptime]</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#c24f433</div>
+                        <div class="message">🟩 ePlus.DEV is up (200 in 219 ms) [skip ci] [upptime]</div>
                       </div>
                     
                   </div>
@@ -1806,7 +1901,43 @@
                     
                     
                       <div class="commit">
-                        <div class="sha">#a121131</div>
+                        <div class="sha">#3911d63</div>
+                        <div class="message">Update views</div>
+                      </div>
+                    
+                  </div>
+                
+                
+                
+                
+                
+              </section>
+            </div>
+          
+            <div class="row fill-width">
+              <section class="activity">
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                  <div class="field">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
+                    <div class="content">
+                      Pushed 1 commit in <span class="repo">hoangsvit/github-profile-views-counter</span>
+                    </div>
+                  </div>
+                  <div class="details">
+                    
+                      <div>on branch <span class="code">main</span></div>
+                    
+                    
+                      <div class="commit">
+                        <div class="sha">#bfcd383</div>
                         <div class="message">Update views</div>
                       </div>
                     
@@ -1842,8 +1973,8 @@
                     
                     
                       <div class="commit">
-                        <div class="sha">#3faacd7</div>
-                        <div class="message">Update Belgium</div>
+                        <div class="sha">#5963755</div>
+                        <div class="message">Update Canada</div>
                       </div>
                     
                   </div>
@@ -1878,43 +2009,7 @@
                     
                     
                       <div class="commit">
-                        <div class="sha">#63e27b4</div>
-                        <div class="message">Update views</div>
-                      </div>
-                    
-                  </div>
-                
-                
-                
-                
-                
-              </section>
-            </div>
-          
-            <div class="row fill-width">
-              <section class="activity">
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                  <div class="field">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-                    <div class="content">
-                      Pushed 1 commit in <span class="repo">ePlus-DEV/view-counter</span>
-                    </div>
-                  </div>
-                  <div class="details">
-                    
-                      <div>on branch <span class="code">main</span></div>
-                    
-                    
-                      <div class="commit">
-                        <div class="sha">#82c1939</div>
+                        <div class="sha">#d88225f</div>
                         <div class="message">Update views</div>
                       </div>
                     
