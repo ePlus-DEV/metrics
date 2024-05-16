@@ -1807,13 +1807,13 @@
                   
                     <div class="entry">
                       <span class="name">vpo</span>
-                      <div class="bar" style="width: 78.48%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                      <div class="bar" style="width: 78.45599999999999%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                       <span class="value">98%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">it-tools [GitHub]</span>
-                      <div class="bar" style="width: 0.8640000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <div class="bar" style="width: 0.8800000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                       <span class="value">1%</span>
                     </div>
                   
@@ -1825,7 +1825,7 @@
                   
                     <div class="entry">
                       <span class="name">excalidraw</span>
-                      <div class="bar" style="width: 0.23199999999999998%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <div class="bar" style="width: 0.24%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                       <span class="value">0%</span>
                     </div>
                   
@@ -1840,31 +1840,31 @@
                   
                     <div class="entry">
                       <span class="name">PHP</span>
-                      <div class="bar" style="width: 57.696000000000005%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                      <div class="bar" style="width: 57.272%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                       <span class="value">72%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">GraphQL</span>
-                      <div class="bar" style="width: 12.744%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                      <span class="value">16%</span>
+                      <div class="bar" style="width: 9.664%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <span class="value">12%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">Other</span>
-                      <div class="bar" style="width: 5.192%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                      <span class="value">6%</span>
+                      <div class="bar" style="width: 5.696%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <span class="value">7%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">Bash</span>
-                      <div class="bar" style="width: 2.616%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                      <span class="value">3%</span>
+                      <div class="bar" style="width: 4.8%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <span class="value">6%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">TypeScript</span>
-                      <div class="bar" style="width: 0.832%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <div class="bar" style="width: 0.848%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                       <span class="value">1%</span>
                     </div>
                   
