@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="361" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="694" class="">
 
   <defs><style/></defs>
   <style data-optimizable="true">/* SVG global context */
@@ -1770,8 +1770,8 @@
                     
                     
                       <div class="commit">
-                        <div class="sha">#fe4b494</div>
-                        <div class="message">Update Germany</div>
+                        <div class="sha">#4d34ce9</div>
+                        <div class="message">Update India</div>
                       </div>
                     
                   </div>
@@ -1806,8 +1806,141 @@
                     
                     
                       <div class="commit">
-                        <div class="sha">#4bf6a46</div>
+                        <div class="sha">#b7c0f05</div>
                         <div class="message">Update views</div>
+                      </div>
+                    
+                  </div>
+                
+                
+                
+                
+                
+              </section>
+            </div>
+          
+            <div class="row fill-width">
+              <section class="activity">
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                  <div class="field">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
+                    <div class="content">
+                      Pushed 96 commits in <span class="repo">hoangsvit/WingetUI</span>
+                    </div>
+                  </div>
+                  <div class="details">
+                    
+                      <div>on branch <span class="code">main</span></div>
+                    
+                    
+                      <div class="commit">
+                        <div class="sha">#2fd4edb</div>
+                        <div class="message">Fix settings not being migrated under certain scenarios (fix #2232)</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#f9daa81</div>
+                        <div class="message">Fix incorrectly parsed paths with non-ascii characters (fix #2239, fix #2212)</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#f49820b</div>
+                        <div class="message">fix incorrectly positioned tags (fix #2241)</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#00de2e5</div>
+                        <div class="message">Merge branch 'main' of https://github.com/marticliment/WingetUI</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#efc1f0f</div>
+                        <div class="message">Remove old name change message (fix #2246)</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#b7ee6c3</div>
+                        <div class="message">Update readme.md</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#26ee415</div>
+                        <div class="message">Merge pull request #2252 from marticliment/pull-request/update-translation
+
+Update translations from Tolgee</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#f82696b</div>
+                        <div class="message">Update translations from Tolgee</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#f8e6174</div>
+                        <div class="message">Merge branch 'main' into icu-i18n</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#a95305d</div>
+                        <div class="message">removed redundant parantheses</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#b61c686</div>
+                        <div class="message">fixed translate values optionality</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#c915f43</div>
+                        <div class="message">fixed type of dictionary for translations</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#0295586</div>
+                        <div class="message">removed MessageFormat package from main csproj</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#4e69f1a</div>
+                        <div class="message">Merge branch 'main' into icu-i18n</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#308c5ef</div>
+                        <div class="message">Merge branch 'main' into icu-i18n</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#79879e2</div>
+                        <div class="message">Merge branch 'main' into icu-i18n</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#216ab3a</div>
+                        <div class="message">replaced strings with ints in translation replacements</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#9b14169</div>
+                        <div class="message">removed useless ToString's</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#b7c440c</div>
+                        <div class="message">removed unused using</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#6d9485e</div>
+                        <div class="message">icu message format for translations</div>
                       </div>
                     
                   </div>
@@ -1842,7 +1975,7 @@
                     
                     
                       <div class="commit">
-                        <div class="sha">#8f44461</div>
+                        <div class="sha">#5576cb0</div>
                         <div class="message">Update views</div>
                       </div>
                     
@@ -1869,7 +2002,7 @@
                   <div class="field">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
                     <div class="content">
-                      Pushed 1 commit in <span class="repo">hoangsvit/github-profile-views-counter</span>
+                      Pushed 2 commits in <span class="repo">hoangsvit/WingetUI</span>
                     </div>
                   </div>
                   <div class="details">
@@ -1878,44 +2011,15 @@
                     
                     
                       <div class="commit">
-                        <div class="sha">#aa2bd2e</div>
-                        <div class="message">Update views</div>
+                        <div class="sha">#c402050</div>
+                        <div class="message">Merge pull request #18 from hoangsvit/pull-request/update-icons-and-screenshots
+
+Update icons and screenshots from the excel file</div>
                       </div>
                     
-                  </div>
-                
-                
-                
-                
-                
-              </section>
-            </div>
-          
-            <div class="row fill-width">
-              <section class="activity">
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                  <div class="field">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-                    <div class="content">
-                      Pushed 1 commit in <span class="repo">ePlus-DEV/view-counter</span>
-                    </div>
-                  </div>
-                  <div class="details">
-                    
-                      <div>on branch <span class="code">main</span></div>
-                    
-                    
                       <div class="commit">
-                        <div class="sha">#6d43cc9</div>
-                        <div class="message">Update views</div>
+                        <div class="sha">#57f1ce1</div>
+                        <div class="message">Update icons and screenshots from the excel file</div>
                       </div>
                     
                   </div>
