@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="361" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="561" class="">
 
   <defs><style/></defs>
   <style data-optimizable="true">/* SVG global context */
@@ -1770,8 +1770,44 @@
                     
                     
                       <div class="commit">
-                        <div class="sha">#3737f1b</div>
-                        <div class="message">Update Germany</div>
+                        <div class="sha">#8af493f</div>
+                        <div class="message">Update Mexico</div>
+                      </div>
+                    
+                  </div>
+                
+                
+                
+                
+                
+              </section>
+            </div>
+          
+            <div class="row fill-width">
+              <section class="activity">
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                  <div class="field">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
+                    <div class="content">
+                      Pushed 1 commit in <span class="repo">ePlus-DEV/top-github-users</span>
+                    </div>
+                  </div>
+                  <div class="details">
+                    
+                      <div>on branch <span class="code">main</span></div>
+                    
+                    
+                      <div class="commit">
+                        <div class="sha">#2dd09ab</div>
+                        <div class="message">Update Japan</div>
                       </div>
                     
                   </div>
@@ -1806,7 +1842,7 @@
                     
                     
                       <div class="commit">
-                        <div class="sha">#99ecc29</div>
+                        <div class="sha">#0937a4b</div>
                         <div class="message">Update views</div>
                       </div>
                     
@@ -1842,7 +1878,7 @@
                     
                     
                       <div class="commit">
-                        <div class="sha">#0cbf6a7</div>
+                        <div class="sha">#bb76258</div>
                         <div class="message">Update views</div>
                       </div>
                     
@@ -1869,7 +1905,7 @@
                   <div class="field">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
                     <div class="content">
-                      Pushed 1 commit in <span class="repo">ePlus-DEV/top-github-users</span>
+                      Pushed 13 commits in <span class="repo">hoangsvit/hashnode-starter-kit</span>
                     </div>
                   </div>
                   <div class="details">
@@ -1878,44 +1914,112 @@
                     
                     
                       <div class="commit">
-                        <div class="sha">#18c0c96</div>
-                        <div class="message">Update France</div>
+                        <div class="sha">#68f9c7b</div>
+                        <div class="message">docs: remove vercel deploy buttons (#84)
+
+* Update README.md
+
+* Update README.md
+
+* Update README.md
+
+* Update README.md
+
+* Update README.md
+
+* Update README.md
+
+* Update README.md</div>
                       </div>
                     
-                  </div>
-                
-                
-                
-                
-                
-              </section>
-            </div>
-          
-            <div class="row fill-width">
-              <section class="activity">
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                  <div class="field">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-                    <div class="content">
-                      Pushed 1 commit in <span class="repo">ePlus-DEV/top-github-users</span>
-                    </div>
-                  </div>
-                  <div class="details">
-                    
-                      <div>on branch <span class="code">main</span></div>
-                    
+                      <div class="commit">
+                        <div class="sha">#ab66af3</div>
+                        <div class="message">Revert "Feat add badges page hashnode theme (#98)" (#136)
+
+This reverts commit a6687b3470c0d9d8c1fd1ab1cfe4de8a6df4e66d.</div>
+                      </div>
                     
                       <div class="commit">
-                        <div class="sha">#a36206f</div>
-                        <div class="message">Update China</div>
+                        <div class="sha">#a6687b3</div>
+                        <div class="message">Feat add badges page hashnode theme (#98)
+
+* gql schema update
+
+* chore: added badges path to nav items
+
+* chore: badges query generated
+
+* chore: badges route added</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#4bda9b0</div>
+                        <div class="message">minor documentation fixes (#74)
+
+* minor changes to the text
+
+* 2024
+
+* fixes #1</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#cf79673</div>
+                        <div class="message">Fixes Dockerfile issue with .env.example (#132)
+
+Co-authored-by: Leon Nunes &lt;me@leonnunes.dev&gt;</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#92c2aa6</div>
+                        <div class="message">Merge pull request #131 from jomefavourite/patch-1
+
+Update README.md</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#4def40d</div>
+                        <div class="message">Added verilog support for syntax highlighting (#133)</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#7564fe6</div>
+                        <div class="message">Update README.md
+
+Making it clear for those setting up the `/blog` subpath on Vercel</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#1ad712a</div>
+                        <div class="message">Merge pull request #130 from Hashnode/remove-old-analytics-ingestion
+
+stop sending old analytics data</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#7844a18</div>
+                        <div class="message">update gql definitions</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#cf16baf</div>
+                        <div class="message">stop sending old analytics data</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#3a67e00</div>
+                        <div class="message">Hashnode theme relative links (#119)
+
+* relative link for rss-feed
+
+* relative links for blog posts in "More Articles" section
+
+* relative links for bottom tags in a single post</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#da878c9</div>
+                        <div class="message">Username undefined in "More Articles" section (#118)</div>
                       </div>
                     
                   </div>
