@@ -1807,26 +1807,20 @@
                   
                     <div class="entry">
                       <span class="name">vpo</span>
-                      <div class="bar" style="width: 74.96799999999999%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                      <span class="value">94%</span>
+                      <div class="bar" style="width: 76.032%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                      <span class="value">95%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">radio.eplus.dev</span>
-                      <div class="bar" style="width: 3.6159999999999997%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                      <span class="value">5%</span>
+                      <div class="bar" style="width: 3.5840000000000005%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <span class="value">4%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">radio-app</span>
-                      <div class="bar" style="width: 0.888%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                      <span class="value">1%</span>
-                    </div>
-                  
-                    <div class="entry">
-                      <span class="name">storage [GitHub]</span>
-                      <div class="bar" style="width: 0.528%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                      <span class="value">1%</span>
+                      <div class="bar" style="width: 0.38399999999999995%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <span class="value">0%</span>
                     </div>
                   
                 
@@ -1840,32 +1834,32 @@
                   
                     <div class="entry">
                       <span class="name">PHP</span>
-                      <div class="bar" style="width: 31.368000000000002%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                      <span class="value">39%</span>
+                      <div class="bar" style="width: 24.872%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                      <span class="value">31%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">Other</span>
-                      <div class="bar" style="width: 12.776%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                      <span class="value">16%</span>
-                    </div>
-                  
-                    <div class="entry">
-                      <span class="name">JSON</span>
-                      <div class="bar" style="width: 11.559999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                      <span class="value">14%</span>
+                      <div class="bar" style="width: 16.456%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <span class="value">21%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">Vue.js</span>
-                      <div class="bar" style="width: 9.976%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                      <span class="value">12%</span>
+                      <div class="bar" style="width: 11.719999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <span class="value">15%</span>
+                    </div>
+                  
+                    <div class="entry">
+                      <span class="name">JSON</span>
+                      <div class="bar" style="width: 10.64%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <span class="value">13%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">GraphQL</span>
-                      <div class="bar" style="width: 9.568000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                      <span class="value">12%</span>
+                      <div class="bar" style="width: 8.664000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <span class="value">11%</span>
                     </div>
                   
                 
