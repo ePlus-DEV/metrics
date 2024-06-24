@@ -18,6 +18,7 @@ jobs:
       - name: Classic
         uses: lowlighter/metrics@latest
         with:
+          user: hoangsvit
           filename: img/classic.svg
           optimize: svg
           experimental_features: --optimize-svg
