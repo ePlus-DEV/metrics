@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="484" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="694" class="">
 
   <defs><style/></defs>
   <style data-optimizable="true">/* SVG global context */
@@ -1761,53 +1761,7 @@
                   <div class="field">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
                     <div class="content">
-                      <div class="user">github-actions[bot]</div> pushed 3 commits in <span class="repo">ePlus-DEV/top-github</span>
-                    </div>
-                  </div>
-                  <div class="details">
-                    
-                      <div>on branch <span class="code">gh-pages</span></div>
-                    
-                    
-                      <div class="commit">
-                        <div class="sha">#208e34d</div>
-                        <div class="message">guinea: updates for 2024-06-28</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#9d1e39b</div>
-                        <div class="message">guatemala: updates for 2024-06-28</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#1e7e550</div>
-                        <div class="message">greece: updates for 2024-06-28</div>
-                      </div>
-                    
-                  </div>
-                
-                
-                
-                
-                
-              </section>
-            </div>
-          
-            <div class="row fill-width">
-              <section class="activity">
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                  <div class="field">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-                    <div class="content">
-                      <div class="user">github-actions[bot]</div> pushed 1 commit in <span class="repo">ePlus-DEV/news</span>
+                      Pushed 1 commit in <span class="repo">hoangsvit/github-profile-views-counter</span>
                     </div>
                   </div>
                   <div class="details">
@@ -1816,8 +1770,8 @@
                     
                     
                       <div class="commit">
-                        <div class="sha">#ab0c606</div>
-                        <div class="message">Get NLD news - nld - 2024-06-28T02:43:24Z</div>
+                        <div class="sha">#820eac9</div>
+                        <div class="message">Update views</div>
                       </div>
                     
                   </div>
@@ -1843,7 +1797,7 @@
                   <div class="field">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
                     <div class="content">
-                      <div class="user">github-actions[bot]</div> pushed 1 commit in <span class="repo">ePlus-DEV/.github</span>
+                      Pushed 1 commit in <span class="repo">ePlus-DEV/view-counter</span>
                     </div>
                   </div>
                   <div class="details">
@@ -1852,8 +1806,8 @@
                     
                     
                       <div class="commit">
-                        <div class="sha">#999a7b7</div>
-                        <div class="message">update README.md (2024-06-28 09:44:54)</div>
+                        <div class="sha">#d4fb079</div>
+                        <div class="message">Update views</div>
                       </div>
                     
                   </div>
@@ -1879,7 +1833,7 @@
                   <div class="field">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
                     <div class="content">
-                      <div class="user">github-actions[bot]</div> pushed 1 commit in <span class="repo">ePlus-DEV/metrics</span>
+                      Pushed 79 commits in <span class="repo">hoangsvit/WingetUI</span>
                     </div>
                   </div>
                   <div class="details">
@@ -1888,8 +1842,109 @@
                     
                     
                       <div class="commit">
-                        <div class="sha">#26b516c</div>
-                        <div class="message">Update img/activity.svg - [Skip GitHub Action]</div>
+                        <div class="sha">#c9b87bc</div>
+                        <div class="message">Update enhancement-improvement.yml_new</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#1a05277</div>
+                        <div class="message">Update enhancement-improvement.yml</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#66495e5</div>
+                        <div class="message">Update feature-request.yml</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#892d51c</div>
+                        <div class="message">Update feature-request.yml_new</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#209421f</div>
+                        <div class="message">Merge pull request #4 from skanda890/pull-request/update-icons-and-screenshots
+
+Update icons and screenshots from the excel file</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#2704176</div>
+                        <div class="message">Merge pull request #2338 from marticliment/pull-request/update-icons-and-screenshots
+
+Update icons and screenshots from the excel file</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#fe8fb6f</div>
+                        <div class="message">Update icons and screenshots from the excel file</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#468e9df</div>
+                        <div class="message">Update icons and screenshots from the excel file</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#9f90c0e</div>
+                        <div class="message">Move SelectAll/SelectNone buttons to the header of the ItemsView (fix #2039)</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#1bfb85d</div>
+                        <div class="message">fix broken SettingsTextBox control when long text was written on it (fix #2315)</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#480f4f8</div>
+                        <div class="message">Move PackageWrapper into its own file, optimize how properties are loaded (less lag when FilterPackages is called)</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#2067788</div>
+                        <div class="message">Code simplification</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#6d10930</div>
+                        <div class="message">convert private-set properties into readonly attributes</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#0dd9611</div>
+                        <div class="message">Code Cleanup</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#933523a</div>
+                        <div class="message">Merge branch 'marticliment:main' into main</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#8cd44ea</div>
+                        <div class="message">Merge branch 'marticliment:main' into main</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#d55e983</div>
+                        <div class="message">Merge branch 'marticliment:main' into main</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#12fc72e</div>
+                        <div class="message">Merge pull request #3 from skanda890/pull-request/update-icons-and-screenshots
+
+Update icons and screenshots from the excel file</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#6e693d5</div>
+                        <div class="message">Update icons and screenshots from the excel file</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#b3f96a9</div>
+                        <div class="message">Update SECURITY.md</div>
                       </div>
                     
                   </div>
@@ -1915,17 +1970,60 @@
                   <div class="field">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
                     <div class="content">
-                      <div class="user">github-actions[bot]</div> pushed 1 commit in <span class="repo">ePlus-DEV/news</span>
+                      Pushed 2 commits in <span class="repo">hoangsvit/WingetUI</span>
                     </div>
                   </div>
                   <div class="details">
                     
-                      <div>on branch <span class="code">gh-pages</span></div>
+                      <div>on branch <span class="code">main</span></div>
                     
                     
                       <div class="commit">
-                        <div class="sha">#4503b79</div>
-                        <div class="message">deploy: fb7c9991b3e9254ab79129a4337cc4df1d28cc24</div>
+                        <div class="sha">#b5c0e92</div>
+                        <div class="message">Merge pull request #26 from hoangsvit/pull-request/update-icons-and-screenshots
+
+Update icons and screenshots from the excel file</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#f49c1d1</div>
+                        <div class="message">Update icons and screenshots from the excel file</div>
+                      </div>
+                    
+                  </div>
+                
+                
+                
+                
+                
+              </section>
+            </div>
+          
+            <div class="row fill-width">
+              <section class="activity">
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                  <div class="field">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
+                    <div class="content">
+                      Pushed 1 commit in <span class="repo">ePlus-DEV/top-github-users</span>
+                    </div>
+                  </div>
+                  <div class="details">
+                    
+                      <div>on branch <span class="code">main</span></div>
+                    
+                    
+                      <div class="commit">
+                        <div class="sha">#6a159a4</div>
+                        <div class="message">Update Indonesia</div>
                       </div>
                     
                   </div>
