@@ -72,6 +72,7 @@ jobs:
       - name: Followers
         uses: lowlighter/metrics@latest
         with:
+          user: hoangsvit
           filename: img/people.followers.svg
           optimize: svg
           experimental_features: --optimize-svg
