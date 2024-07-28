@@ -1770,8 +1770,8 @@
                     
                     
                       <div class="commit">
-                        <div class="sha">#734409c</div>
-                        <div class="message">Update img/achievements.compact.svg - [Skip GitHub Action]</div>
+                        <div class="sha">#7f7a336</div>
+                        <div class="message">Update img/achievements.svg - [Skip GitHub Action]</div>
                       </div>
                     
                   </div>
@@ -1806,8 +1806,8 @@
                     
                     
                       <div class="commit">
-                        <div class="sha">#a30a1cd</div>
-                        <div class="message">Update img/achievements.svg - [Skip GitHub Action]</div>
+                        <div class="sha">#11dd0d8</div>
+                        <div class="message">Update img/classic.svg - [Skip GitHub Action]</div>
                       </div>
                     
                   </div>
@@ -1842,44 +1842,8 @@
                     
                     
                       <div class="commit">
-                        <div class="sha">#e2d7821</div>
-                        <div class="message">update weather Ho Chi Minh ☁️🌤️⛈️🌩️🌧️ (2024-07-29 00:47:58)</div>
-                      </div>
-                    
-                  </div>
-                
-                
-                
-                
-                
-              </section>
-            </div>
-          
-            <div class="row fill-width">
-              <section class="activity">
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                  <div class="field">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-                    <div class="content">
-                      <div class="user">github-actions[bot]</div> pushed 1 commit in <span class="repo">ePlus-DEV/metrics</span>
-                    </div>
-                  </div>
-                  <div class="details">
-                    
-                      <div>on branch <span class="code">main</span></div>
-                    
-                    
-                      <div class="commit">
-                        <div class="sha">#7ab3ad7</div>
-                        <div class="message">Update img/classic.svg - [Skip GitHub Action]</div>
+                        <div class="sha">#2b9e8ef</div>
+                        <div class="message">update weather Ho Chi Minh ☁️🌤️⛈️🌩️🌧️ (2024-07-29 00:56:38)</div>
                       </div>
                     
                   </div>
@@ -1914,8 +1878,44 @@
                     
                     
                       <div class="commit">
-                        <div class="sha">#ea93203</div>
-                        <div class="message">update README.md (2024-07-29 00:44:14)</div>
+                        <div class="sha">#193cdf9</div>
+                        <div class="message">update README.md (2024-07-29 00:56:32)</div>
+                      </div>
+                    
+                  </div>
+                
+                
+                
+                
+                
+              </section>
+            </div>
+          
+            <div class="row fill-width">
+              <section class="activity">
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                  <div class="field">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
+                    <div class="content">
+                      <div class="user">github-actions[bot]</div> pushed 1 commit in <span class="repo">ePlus-DEV/news</span>
+                    </div>
+                  </div>
+                  <div class="details">
+                    
+                      <div>on branch <span class="code">gh-pages</span></div>
+                    
+                    
+                      <div class="commit">
+                        <div class="sha">#274e6e6</div>
+                        <div class="message">deploy: 5135c41731bb7a4a809d9a0d2c145da8c36f2d15</div>
                       </div>
                     
                   </div>
