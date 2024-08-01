@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="694" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="361" class="">
 
   <defs><style/></defs>
   <style data-optimizable="true">/* SVG global context */
@@ -1761,6 +1761,114 @@
                   <div class="field">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
                     <div class="content">
+                      Pushed 1 commit in <span class="repo">ePlus-DEV/view-counter</span>
+                    </div>
+                  </div>
+                  <div class="details">
+                    
+                      <div>on branch <span class="code">main</span></div>
+                    
+                    
+                      <div class="commit">
+                        <div class="sha">#4d09eda</div>
+                        <div class="message">Update views</div>
+                      </div>
+                    
+                  </div>
+                
+                
+                
+                
+                
+              </section>
+            </div>
+          
+            <div class="row fill-width">
+              <section class="activity">
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                  <div class="field">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
+                    <div class="content">
+                      Pushed 1 commit in <span class="repo">hoangsvit/github-profile-views-counter</span>
+                    </div>
+                  </div>
+                  <div class="details">
+                    
+                      <div>on branch <span class="code">main</span></div>
+                    
+                    
+                      <div class="commit">
+                        <div class="sha">#281d71b</div>
+                        <div class="message">Update views</div>
+                      </div>
+                    
+                  </div>
+                
+                
+                
+                
+                
+              </section>
+            </div>
+          
+            <div class="row fill-width">
+              <section class="activity">
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                  <div class="field">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
+                    <div class="content">
+                      Pushed 1 commit in <span class="repo">ePlus-DEV/top-github-users</span>
+                    </div>
+                  </div>
+                  <div class="details">
+                    
+                      <div>on branch <span class="code">main</span></div>
+                    
+                    
+                      <div class="commit">
+                        <div class="sha">#12c380e</div>
+                        <div class="message">Update Japan</div>
+                      </div>
+                    
+                  </div>
+                
+                
+                
+                
+                
+              </section>
+            </div>
+          
+            <div class="row fill-width">
+              <section class="activity">
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                  <div class="field">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
+                    <div class="content">
                       Pushed 1 commit in <span class="repo">hoangsvit/github-profile-views-counter</span>
                     </div>
                   </div>
@@ -1808,232 +1916,6 @@
                       <div class="commit">
                         <div class="sha">#543acf5</div>
                         <div class="message">Update views</div>
-                      </div>
-                    
-                  </div>
-                
-                
-                
-                
-                
-              </section>
-            </div>
-          
-            <div class="row fill-width">
-              <section class="activity">
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                  <div class="field">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-                    <div class="content">
-                      Pushed 3 commits in <span class="repo">hoangsvit/hashnode-starter-kit</span>
-                    </div>
-                  </div>
-                  <div class="details">
-                    
-                      <div>on branch <span class="code">vercel</span></div>
-                    
-                    
-                      <div class="commit">
-                        <div class="sha">#d47c91a</div>
-                        <div class="message">Merge branch 'Hashnode:main' into vercel</div>
-                      </div>
-                    
-                  </div>
-                
-                
-                
-                
-                
-              </section>
-            </div>
-          
-            <div class="row fill-width">
-              <section class="activity">
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                  <div class="field">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-                    <div class="content">
-                      Pushed 25 commits in <span class="repo">hoangsvit/free-for-dev</span>
-                    </div>
-                  </div>
-                  <div class="details">
-                    
-                      <div>on branch <span class="code">master</span></div>
-                    
-                    
-                      <div class="commit">
-                        <div class="sha">#841de9b</div>
-                        <div class="message">Merge pull request #3444 from Keywords-AI/master
-
-add Keywords AI</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#e70a374</div>
-                        <div class="message">fix</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#54dd549</div>
-                        <div class="message">add Keywords AI</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#f3cae2d</div>
-                        <div class="message">Merge pull request #3443 from modernharp/patch-1
-
-Update README.md</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#aef097a</div>
-                        <div class="message">Update README.md</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#87653b3</div>
-                        <div class="message">Merge pull request #3438 from ovx/patch-1
-
-Add Altcha.org Spam Filter to Security and PKI</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#0919286</div>
-                        <div class="message">Altcha Spam Filter - free plan info</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#b472be7</div>
-                        <div class="message">Add Altcha.org Spam Filter to Security and PKI</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#fb0b043</div>
-                        <div class="message">Merge pull request #3432 from JackNDwyer/patch-2
-
-Add Alerty startup monitoring</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#d7905b9</div>
-                        <div class="message">Remove tracking from alerty URL</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#be9190c</div>
-                        <div class="message">Merge pull request #3437 from lo-ud/master
-
-Add Seline analytics</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#df1c5da</div>
-                        <div class="message">Add Seline analytics</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#f420d00</div>
-                        <div class="message">Merge pull request #3436 from marvinvr/master
-
-Add PostPulse</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#cc7cd81</div>
-                        <div class="message">Add PostPulse</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#0e5c132</div>
-                        <div class="message">Merge pull request #3435 from sarthak-clappia/patch-1
-
-Add Clappia in the list of Low-code platforms</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#fd24b59</div>
-                        <div class="message">Merge pull request #3434 from ChrSteinert/master
-
-Two more DDNS services</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#8ec4bc8</div>
-                        <div class="message">Add Clappia in the list of Low-code platforms</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#3be6f73</div>
-                        <div class="message">DNS: Add noit.at.</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#5488a9d</div>
-                        <div class="message">DNS: Add Dynv6.</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#faec6b6</div>
-                        <div class="message">Add Alerty startup monitoring</div>
-                      </div>
-                    
-                  </div>
-                
-                
-                
-                
-                
-              </section>
-            </div>
-          
-            <div class="row fill-width">
-              <section class="activity">
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                  <div class="field">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-                    <div class="content">
-                      Pushed 2 commits in <span class="repo">hoangsvit/PairDrop</span>
-                    </div>
-                  </div>
-                  <div class="details">
-                    
-                      <div>on branch <span class="code">master</span></div>
-                    
-                    
-                      <div class="commit">
-                        <div class="sha">#a68cd75</div>
-                        <div class="message">Merge pull request #316 from avadhesh18/patch-1</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#e85a2e6</div>
-                        <div class="message">Update README.md
-
-Improved the summary because "List view" was confusing.</div>
                       </div>
                     
                   </div>
