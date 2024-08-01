@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="484" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="450" class="">
 
   <defs><style/></defs>
   <style data-optimizable="true">/* SVG global context */
@@ -1761,27 +1761,17 @@
                   <div class="field">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
                     <div class="content">
-                      <div class="user">github-actions[bot]</div> pushed 3 commits in <span class="repo">ePlus-DEV/top-github</span>
+                      <div class="user">github-actions[bot]</div> pushed 1 commit in <span class="repo">ePlus-DEV/news</span>
                     </div>
                   </div>
                   <div class="details">
                     
-                      <div>on branch <span class="code">gh-pages</span></div>
+                      <div>on branch <span class="code">main</span></div>
                     
                     
                       <div class="commit">
-                        <div class="sha">#5021dfe</div>
-                        <div class="message">guinea: updates for 2024-08-01</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#38669fe</div>
-                        <div class="message">guatemala: updates for 2024-08-01</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#541e844</div>
-                        <div class="message">greece: updates for 2024-08-01</div>
+                        <div class="sha">#074753c</div>
+                        <div class="message">Get LaoDong news - laodong - 2024-08-01T03:18:09Z</div>
                       </div>
                     
                   </div>
@@ -1816,7 +1806,7 @@
                     
                     
                       <div class="commit">
-                        <div class="sha">#71eca47</div>
+                        <div class="sha">#f77ac24</div>
                         <div class="message">Update img/achievements.svg - [Skip GitHub Action]</div>
                       </div>
                     
@@ -1852,7 +1842,7 @@
                     
                     
                       <div class="commit">
-                        <div class="sha">#fd3a251</div>
+                        <div class="sha">#11640df</div>
                         <div class="message">Update img/classic.svg - [Skip GitHub Action]</div>
                       </div>
                     
@@ -1879,17 +1869,17 @@
                   <div class="field">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
                     <div class="content">
-                      <div class="user">github-actions[bot]</div> pushed 1 commit in <span class="repo">ePlus-DEV/top-github-users</span>
+                      <div class="user">github-actions[bot]</div> pushed 1 commit in <span class="repo">ePlus-DEV/news</span>
                     </div>
                   </div>
                   <div class="details">
                     
-                      <div>on branch <span class="code">gh-pages</span></div>
+                      <div>on branch <span class="code">main</span></div>
                     
                     
                       <div class="commit">
-                        <div class="sha">#fd52ea2</div>
-                        <div class="message">deploy: 69fefc7b21339dff78ab8565fdf80c7d775f7689</div>
+                        <div class="sha">#d30b882</div>
+                        <div class="message">Get ThanhNien news - thanhnien - 2024-08-01T02:57:03Z</div>
                       </div>
                     
                   </div>
@@ -1915,7 +1905,7 @@
                   <div class="field">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
                     <div class="content">
-                      <div class="user">github-actions[bot]</div> pushed 1 commit in <span class="repo">ePlus-DEV/weather-forecast</span>
+                      <div class="user">github-actions[bot]</div> pushed 1 commit in <span class="repo">ePlus-DEV/.github</span>
                     </div>
                   </div>
                   <div class="details">
@@ -1924,8 +1914,8 @@
                     
                     
                       <div class="commit">
-                        <div class="sha">#82594c2</div>
-                        <div class="message">update weather Ho Chi Minh ☁️🌤️⛈️🌩️🌧️ (2024-08-01 09:57:00)</div>
+                        <div class="sha">#40e70e1</div>
+                        <div class="message">update README.md (2024-08-01 10:18:31)</div>
                       </div>
                     
                   </div>
