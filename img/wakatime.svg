@@ -1807,25 +1807,31 @@
                   
                     <div class="entry">
                       <span class="name">vpo</span>
-                      <div class="bar" style="width: 75.096%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                      <span class="value">94%</span>
+                      <div class="bar" style="width: 69.43200000000002%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                      <span class="value">87%</span>
+                    </div>
+                  
+                    <div class="entry">
+                      <span class="name">eplus-news</span>
+                      <div class="bar" style="width: 6.6000000000000005%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <span class="value">8%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">storage</span>
-                      <div class="bar" style="width: 4.3759999999999994%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                      <span class="value">5%</span>
+                      <div class="bar" style="width: 3.2319999999999998%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <span class="value">4%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">radio.eplus.dev [GitHub]</span>
-                      <div class="bar" style="width: 0.46399999999999997%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <div class="bar" style="width: 0.45599999999999996%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                       <span class="value">1%</span>
                     </div>
                   
                     <div class="entry">
-                      <span class="name">radio.eplus.dev</span>
-                      <div class="bar" style="width: 0.064%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <span class="name">news [GitHub]</span>
+                      <div class="bar" style="width: 0.21600000000000003%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                       <span class="value">0%</span>
                     </div>
                   
@@ -1840,32 +1846,32 @@
                   
                     <div class="entry">
                       <span class="name">PHP</span>
-                      <div class="bar" style="width: 38.024%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                      <span class="value">48%</span>
+                      <div class="bar" style="width: 35.32%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                      <span class="value">44%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">Bash</span>
-                      <div class="bar" style="width: 12.456%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <div class="bar" style="width: 12.88%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                       <span class="value">16%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">Other</span>
-                      <div class="bar" style="width: 11.943999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <div class="bar" style="width: 12.272%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                       <span class="value">15%</span>
                     </div>
                   
                     <div class="entry">
-                      <span class="name">Blade Template</span>
-                      <div class="bar" style="width: 5.688%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <span class="name">Markdown</span>
+                      <div class="bar" style="width: 5.576%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                       <span class="value">7%</span>
                     </div>
                   
                     <div class="entry">
-                      <span class="name">Markdown</span>
-                      <div class="bar" style="width: 4.352%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                      <span class="value">5%</span>
+                      <span class="name">Blade Template</span>
+                      <div class="bar" style="width: 5.568%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <span class="value">7%</span>
                     </div>
                   
                 
