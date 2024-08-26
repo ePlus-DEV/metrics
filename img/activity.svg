@@ -1770,7 +1770,7 @@
                     
                     
                       <div class="commit">
-                        <div class="sha">#ac0c6a6</div>
+                        <div class="sha">#11dfc09</div>
                         <div class="message">Update img/achievements.svg - [Skip GitHub Action]</div>
                       </div>
                     
@@ -1806,7 +1806,7 @@
                     
                     
                       <div class="commit">
-                        <div class="sha">#f55572e</div>
+                        <div class="sha">#094aee2</div>
                         <div class="message">Update img/classic.svg - [Skip GitHub Action]</div>
                       </div>
                     
@@ -1842,8 +1842,8 @@
                     
                     
                       <div class="commit">
-                        <div class="sha">#613470a</div>
-                        <div class="message">Get NLD news - nld - 2024-08-26T06:27:52Z</div>
+                        <div class="sha">#603f703</div>
+                        <div class="message">Get DanTri news - dantri-doi-song - 2024-08-26T06:31:43Z</div>
                       </div>
                     
                   </div>
@@ -1878,8 +1878,8 @@
                     
                     
                       <div class="commit">
-                        <div class="sha">#21988bc</div>
-                        <div class="message">Get LaoDong news - laodong - 2024-08-26T06:27:38Z</div>
+                        <div class="sha">#08150c4</div>
+                        <div class="message">Get DanTri news - dantri-su-kien - 2024-08-26T06:31:43Z</div>
                       </div>
                     
                   </div>
@@ -1910,12 +1910,12 @@
                   </div>
                   <div class="details">
                     
-                      <div>on branch <span class="code">gh-pages</span></div>
+                      <div>on branch <span class="code">main</span></div>
                     
                     
                       <div class="commit">
-                        <div class="sha">#c8c2ab1</div>
-                        <div class="message">deploy: 63808733c2b79ca124b6c41011df38dd1769a2e3</div>
+                        <div class="sha">#31569a8</div>
+                        <div class="message">Get DanTri news - dantri-dnews - 2024-08-26T06:31:43Z</div>
                       </div>
                     
                   </div>
