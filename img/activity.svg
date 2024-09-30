@@ -1761,42 +1761,6 @@
                   <div class="field">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
                     <div class="content">
-                      <div class="user">github-actions[bot]</div> pushed 1 commit in <span class="repo">ePlus-DEV/news</span>
-                    </div>
-                  </div>
-                  <div class="details">
-                    
-                      <div>on branch <span class="code">gh-pages</span></div>
-                    
-                    
-                      <div class="commit">
-                        <div class="sha">#d7b3e98</div>
-                        <div class="message">deploy: c1a356f61d9a604916ea6a8ab28759cde5a1cbf5</div>
-                      </div>
-                    
-                  </div>
-                
-                
-                
-                
-                
-              </section>
-            </div>
-          
-            <div class="row fill-width">
-              <section class="activity">
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                  <div class="field">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-                    <div class="content">
                       <div class="user">hoangsvit</div> pushed 1 commit in <span class="repo">ePlus-DEV/view-counter</span>
                     </div>
                   </div>
@@ -1806,7 +1770,7 @@
                     
                     
                       <div class="commit">
-                        <div class="sha">#7996c6a</div>
+                        <div class="sha">#dc0533c</div>
                         <div class="message">Update views</div>
                       </div>
                     
@@ -1842,8 +1806,8 @@
                     
                     
                       <div class="commit">
-                        <div class="sha">#9d81dab</div>
-                        <div class="message">Get ThanhNien news - thanhnien - 2024-09-30T10:23:36Z</div>
+                        <div class="sha">#80b7564</div>
+                        <div class="message">Get ThuVienPhapLuat news - thuvienphapluat - 2024-09-30T10:26:02Z</div>
                       </div>
                     
                   </div>
@@ -1878,8 +1842,8 @@
                     
                     
                       <div class="commit">
-                        <div class="sha">#1041519</div>
-                        <div class="message">Get DanTri news - dantri-photo-story - 2024-09-30T09:57:25Z</div>
+                        <div class="sha">#e1ae9e9</div>
+                        <div class="message">Get vnexpress news - vnexpress-kinh-doanh - 2024-09-30T10:26:02Z</div>
                       </div>
                     
                   </div>
@@ -1914,8 +1878,44 @@
                     
                     
                       <div class="commit">
-                        <div class="sha">#f27916e</div>
-                        <div class="message">Get DanTri news - dantri-suc-khoe - 2024-09-30T09:57:25Z</div>
+                        <div class="sha">#4060234</div>
+                        <div class="message">Get vnexpress news - vnexpress-doi-song - 2024-09-30T10:26:02Z</div>
+                      </div>
+                    
+                  </div>
+                
+                
+                
+                
+                
+              </section>
+            </div>
+          
+            <div class="row fill-width">
+              <section class="activity">
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                  <div class="field">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
+                    <div class="content">
+                      <div class="user">github-actions[bot]</div> pushed 1 commit in <span class="repo">ePlus-DEV/news</span>
+                    </div>
+                  </div>
+                  <div class="details">
+                    
+                      <div>on branch <span class="code">main</span></div>
+                    
+                    
+                      <div class="commit">
+                        <div class="sha">#4ba2a45</div>
+                        <div class="message">Get vnexpress news - vnexpress-phap-luat - 2024-09-30T10:26:02Z</div>
                       </div>
                     
                   </div>
