@@ -1807,13 +1807,19 @@
                   
                     <div class="entry">
                       <span class="name">vpo</span>
-                      <div class="bar" style="width: 78.424%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                      <span class="value">98%</span>
+                      <div class="bar" style="width: 76.792%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                      <span class="value">96%</span>
+                    </div>
+                  
+                    <div class="entry">
+                      <span class="name">cv [GitHub]</span>
+                      <div class="bar" style="width: 1.6480000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <span class="value">2%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">an-booking</span>
-                      <div class="bar" style="width: 1.064%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <div class="bar" style="width: 1.056%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                       <span class="value">1%</span>
                     </div>
                   
@@ -1834,31 +1840,31 @@
                   
                     <div class="entry">
                       <span class="name">PHP</span>
-                      <div class="bar" style="width: 58.552%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                      <span class="value">73%</span>
+                      <div class="bar" style="width: 61.16799999999999%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                      <span class="value">76%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">GraphQL</span>
-                      <div class="bar" style="width: 14.080000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                      <span class="value">18%</span>
+                      <div class="bar" style="width: 9.671999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <span class="value">12%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">Blade Template</span>
-                      <div class="bar" style="width: 5.247999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                      <span class="value">7%</span>
+                      <div class="bar" style="width: 5.192%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <span class="value">6%</span>
+                    </div>
+                  
+                    <div class="entry">
+                      <span class="name">Markdown</span>
+                      <div class="bar" style="width: 1.6239999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <span class="value">2%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">Text</span>
-                      <div class="bar" style="width: 0.8960000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                      <span class="value">1%</span>
-                    </div>
-                  
-                    <div class="entry">
-                      <span class="name">Other</span>
-                      <div class="bar" style="width: 0.7200000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <div class="bar" style="width: 0.9199999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                       <span class="value">1%</span>
                     </div>
                   
