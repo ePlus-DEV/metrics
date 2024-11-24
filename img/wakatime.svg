@@ -1807,25 +1807,19 @@
                   
                     <div class="entry">
                       <span class="name">vpo</span>
-                      <div class="bar" style="width: 76.272%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                      <span class="value">95%</span>
+                      <div class="bar" style="width: 77.464%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                      <span class="value">97%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">cv [GitHub]</span>
-                      <div class="bar" style="width: 1.92%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                      <span class="value">2%</span>
-                    </div>
-                  
-                    <div class="entry">
-                      <span class="name">an-booking</span>
-                      <div class="bar" style="width: 1.2240000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <div class="bar" style="width: 1.9440000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                       <span class="value">2%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">cv</span>
-                      <div class="bar" style="width: 0.584%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <div class="bar" style="width: 0.5920000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                       <span class="value">1%</span>
                     </div>
                   
@@ -1840,31 +1834,31 @@
                   
                     <div class="entry">
                       <span class="name">PHP</span>
-                      <div class="bar" style="width: 62.751999999999995%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                      <span class="value">78%</span>
+                      <div class="bar" style="width: 63.536%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                      <span class="value">79%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">GraphQL</span>
-                      <div class="bar" style="width: 10.304%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <div class="bar" style="width: 10.464%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                       <span class="value">13%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">Markdown</span>
-                      <div class="bar" style="width: 1.888%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <div class="bar" style="width: 1.9120000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                       <span class="value">2%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">Other</span>
-                      <div class="bar" style="width: 1.752%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <div class="bar" style="width: 1.784%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                       <span class="value">2%</span>
                     </div>
                   
                     <div class="entry">
-                      <span class="name">Text</span>
-                      <div class="bar" style="width: 1.064%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <span class="name">JSON</span>
+                      <div class="bar" style="width: 0.9119999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                       <span class="value">1%</span>
                     </div>
                   
