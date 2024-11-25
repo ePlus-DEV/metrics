@@ -1770,7 +1770,7 @@
                     
                     
                       <div class="commit">
-                        <div class="sha">#5046d08</div>
+                        <div class="sha">#da449ed</div>
                         <div class="message">Update img/achievements.svg - [Skip GitHub Action]</div>
                       </div>
                     
@@ -1806,7 +1806,7 @@
                     
                     
                       <div class="commit">
-                        <div class="sha">#51acbce</div>
+                        <div class="sha">#109d53c</div>
                         <div class="message">Update img/classic.svg - [Skip GitHub Action]</div>
                       </div>
                     
@@ -1842,8 +1842,8 @@
                     
                     
                       <div class="commit">
-                        <div class="sha">#18e51bb</div>
-                        <div class="message">Update Indonesia</div>
+                        <div class="sha">#304dbee</div>
+                        <div class="message">Update Mexico</div>
                       </div>
                     
                   </div>
@@ -1878,8 +1878,8 @@
                     
                     
                       <div class="commit">
-                        <div class="sha">#20cfcd7</div>
-                        <div class="message">deploy: b04dde61593f5fa0e01715a0a44f7f5688454b59</div>
+                        <div class="sha">#79c9c78</div>
+                        <div class="message">deploy: 644c0fbc8f4234657d48e5fb13b95d3de2425fbb</div>
                       </div>
                     
                   </div>
@@ -1910,12 +1910,12 @@
                   </div>
                   <div class="details">
                     
-                      <div>on branch <span class="code">main</span></div>
+                      <div>on branch <span class="code">gh-pages</span></div>
                     
                     
                       <div class="commit">
-                        <div class="sha">#820925b</div>
-                        <div class="message">Get HoaHocTro news - hoahoctro - 2024-11-25T01:42:40Z</div>
+                        <div class="sha">#7af22be</div>
+                        <div class="message">deploy: eca323ac9674c84ba87ab47094bb469c5ce401a7</div>
                       </div>
                     
                   </div>
