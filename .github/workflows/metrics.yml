@@ -91,6 +91,7 @@ jobs:
           optimize: svg
           experimental_features: --optimize-svg
           token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
           plugin_languages: yes
 
       - name: WakaTime
