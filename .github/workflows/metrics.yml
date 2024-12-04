@@ -121,6 +121,8 @@ jobs:
           filename: img/pagespeed-eplus.dev.svg
           optimize: svg
           experimental_features: --optimize-svg
+          token: NOT_NEEDED
+          base: ""
           plugin_pagespeed: yes
           plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
           plugin_pagespeed_url: https://eplus.dev
