@@ -41,6 +41,7 @@ jobs:
           optimize: svg
           experimental_features: --optimize-svg
           token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
           plugin_achievements: yes
           plugin_achievements_only: >-
             polyglot, stargazer, sponsor, deployer, member, maintainer, developer, scripter, packager, explorer, infographile, manager
@@ -54,6 +55,7 @@ jobs:
           optimize: svg
           experimental_features: --optimize-svg
           token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
           plugin_activity: yes
           plugin_activity_limit: 5
           plugin_activity_days: 0
@@ -67,6 +69,7 @@ jobs:
           optimize: svg
           experimental_features: --optimize-svg
           token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
           plugin_isocalendar: yes
 
       - name: Followers
@@ -76,6 +79,7 @@ jobs:
           optimize: svg
           experimental_features: --optimize-svg
           token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
           plugin_people: yes
           plugin_people_types: followers
 
@@ -105,11 +109,9 @@ jobs:
           filename: img/leetcode.svg
           optimize: svg
           experimental_features: --optimize-svg
-          plugin_leetcode: yes
-          plugin_leetcode_limit_recent: 2
-          plugin_leetcode_limit_skills: 10
-          plugin_leetcode_sections: solved
           plugin_leetcode_user: hoangsvit
+          plugin_leetcode: yes
+          plugin_leetcode_sections: solved, skills, recent
 
       - name: PageSpeed to eplus.dev
         uses: lowlighter/metrics@latest
