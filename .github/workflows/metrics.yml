@@ -105,9 +105,11 @@ jobs:
           filename: img/leetcode.svg
           optimize: svg
           experimental_features: --optimize-svg
-          plugin_leetcode_user: hoangsvit
           plugin_leetcode: yes
-          plugin_leetcode_sections: solved, skills, recent
+          plugin_leetcode_limit_recent: 2
+          plugin_leetcode_limit_skills: 10
+          plugin_leetcode_sections: solved
+          plugin_leetcode_user: hoangsvit
 
       - name: PageSpeed to eplus.dev
         uses: lowlighter/metrics@latest
