@@ -40,6 +40,7 @@ jobs:
       - name: Achievements Compact display
         uses: lowlighter/metrics@latest
         with:
+          user: hoangsvit
           filename: img/achievements.compact.svg
           optimize: svg
           experimental_features: --optimize-svg
