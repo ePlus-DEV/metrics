@@ -74,6 +74,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           user: hoangsvit
+          organization: ePlus-DEV
           filename: img/people.followers.svg
           optimize: svg
           experimental_features: --optimize-svg
@@ -84,6 +85,8 @@ jobs:
       - name: Languages most used
         uses: lowlighter/metrics@latest
         with:
+          user: hoangsvit
+          organization: ePlus-DEV
           filename: img/languages.svg
           optimize: svg
           experimental_features: --optimize-svg
