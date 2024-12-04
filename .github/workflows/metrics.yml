@@ -97,6 +97,7 @@ jobs:
       - name: Starred topics - Icons
         uses: lowlighter/metrics@latest
         with:
+          user: hoangsvit
           filename: img/topics.icons.svg
           optimize: svg
           experimental_features: --optimize-svg
