@@ -23,7 +23,6 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Saigon
           plugin_lines: yes
-
       - name: Achievements display
         uses: lowlighter/metrics@latest
         with:
@@ -60,7 +59,6 @@ jobs:
           plugin_activity_limit: 5
           plugin_activity_days: 0
           config_timezone: Asia/Saigon
-
       - name: Half-year calendar
         uses: lowlighter/metrics@latest
         with:
@@ -71,10 +69,10 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_isocalendar: yes
-
       - name: Followers
         uses: lowlighter/metrics@latest
         with:
+          user: hoangsvit
           filename: img/people.followers.svg
           optimize: svg
           experimental_features: --optimize-svg
@@ -82,7 +80,6 @@ jobs:
           base: ""
           plugin_people: yes
           plugin_people_types: followers
-
       - name: Languages most used
         uses: lowlighter/metrics@latest
         with:
@@ -91,7 +88,6 @@ jobs:
           experimental_features: --optimize-svg
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_languages: yes
-
       - name: WakaTime
         uses: lowlighter/metrics@latest
         with:
@@ -104,7 +100,6 @@ jobs:
           plugin_wakatime: yes
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
-
       - name: LeetCode
         uses: lowlighter/metrics@latest
         with:
@@ -116,7 +111,6 @@ jobs:
           plugin_leetcode_user: hoangsvit
           plugin_leetcode: yes
           plugin_leetcode_sections: solved, skills, recent
-
       - name: PageSpeed to eplus.dev
         uses: lowlighter/metrics@latest
         with:
