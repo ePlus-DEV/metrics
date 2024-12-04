@@ -111,6 +111,8 @@ jobs:
           filename: img/leetcode.svg
           optimize: svg
           experimental_features: --optimize-svg
+          token: NOT_NEEDED
+          base: ""
           plugin_leetcode_user: hoangsvit
           plugin_leetcode: yes
           plugin_leetcode_sections: solved, skills, recent
