@@ -94,6 +94,18 @@ jobs:
           base: ""
           plugin_languages: yes
 
+      - name: Starred topics - Icons
+        uses: lowlighter/metrics@latest
+        with:
+          filename: img/topics.icons.svg
+          optimize: svg
+          experimental_features: --optimize-svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_topics: yes
+          plugin_topics_limit: 0
+          plugin_topics_mode: icons
+
       - name: WakaTime
         uses: lowlighter/metrics@latest
         with:
