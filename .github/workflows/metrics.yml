@@ -20,7 +20,7 @@ jobs:
           optimize: svg
           experimental_features: --optimize-svg
           token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          commits_authoring: hoangsvit
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Saigon
           plugin_lines: yes
