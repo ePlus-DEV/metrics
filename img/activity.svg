@@ -1770,8 +1770,8 @@
                     
                     
                       <div class="commit">
-                        <div class="sha">#5806ff6</div>
-                        <div class="message">Get DanTri news - dantri-giao-duc - 2025-02-26T16:54:05Z</div>
+                        <div class="sha">#eabafdf</div>
+                        <div class="message">Get vnexpress news - vnexpress-giai-tri - 2025-02-26T17:17:52Z</div>
                       </div>
                     
                   </div>
@@ -1806,8 +1806,8 @@
                     
                     
                       <div class="commit">
-                        <div class="sha">#a469e6a</div>
-                        <div class="message">Get DanTri news - dantri-xa-hoi - 2025-02-26T16:54:05Z</div>
+                        <div class="sha">#b03d9bb</div>
+                        <div class="message">Get vnexpress news - vnexpress-phap-luat - 2025-02-26T17:17:52Z</div>
                       </div>
                     
                   </div>
@@ -1842,8 +1842,8 @@
                     
                     
                       <div class="commit">
-                        <div class="sha">#f7de48e</div>
-                        <div class="message">update README.md (2025-02-27 00:00:54)</div>
+                        <div class="sha">#96717a5</div>
+                        <div class="message">update README.md (2025-02-27 00:17:55)</div>
                       </div>
                     
                   </div>
@@ -1878,8 +1878,8 @@
                     
                     
                       <div class="commit">
-                        <div class="sha">#128547f</div>
-                        <div class="message">Get DanTri news - dantri-ban-doc - 2025-02-26T16:54:05Z</div>
+                        <div class="sha">#a72d14d</div>
+                        <div class="message">Get NLD news - nld - 2025-02-26T17:13:52Z</div>
                       </div>
                     
                   </div>
@@ -1910,12 +1910,12 @@
                   </div>
                   <div class="details">
                     
-                      <div>on branch <span class="code">main</span></div>
+                      <div>on branch <span class="code">gh-pages</span></div>
                     
                     
                       <div class="commit">
-                        <div class="sha">#5879cb4</div>
-                        <div class="message">Get DanTri news - dantri-su-kien - 2025-02-26T16:54:05Z</div>
+                        <div class="sha">#f7f316e</div>
+                        <div class="message">deploy: fffc125da878a0ff476b2752646ba0ff6526d3e1</div>
                       </div>
                     
                   </div>
