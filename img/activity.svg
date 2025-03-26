@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="450" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="484" class="">
 
   <defs><style/></defs>
   <style data-optimizable="true">/* SVG global context */
@@ -1761,7 +1761,7 @@
                   <div class="field">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
                     <div class="content">
-                      <div class="user">hoangsvit</div> pushed 1 commit in <span class="repo">ePlus-DEV/top-github-users</span>
+                      <div class="user">github-actions[bot]</div> pushed 1 commit in <span class="repo">ePlus-DEV/metrics</span>
                     </div>
                   </div>
                   <div class="details">
@@ -1770,8 +1770,8 @@
                     
                     
                       <div class="commit">
-                        <div class="sha">#1d32209</div>
-                        <div class="message">Update France</div>
+                        <div class="sha">#d36303a</div>
+                        <div class="message">Update img/classic.svg - [Skip GitHub Action]</div>
                       </div>
                     
                   </div>
@@ -1797,7 +1797,7 @@
                   <div class="field">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
                     <div class="content">
-                      <div class="user">github-actions[bot]</div> pushed 1 commit in <span class="repo">ePlus-DEV/top-github-users</span>
+                      <div class="user">github-actions[bot]</div> pushed 3 commits in <span class="repo">ePlus-DEV/top-github</span>
                     </div>
                   </div>
                   <div class="details">
@@ -1806,8 +1806,18 @@
                     
                     
                       <div class="commit">
-                        <div class="sha">#5b6f0d9</div>
-                        <div class="message">deploy: 9a8baee1f46ca1b16ad5eabeae748c39bfc1e49b</div>
+                        <div class="sha">#ad36ae1</div>
+                        <div class="message">finland: updates for 2025-03-26</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#1efd482</div>
+                        <div class="message">botswana: updates for 2025-03-26</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#516859b</div>
+                        <div class="message">bolivia: updates for 2025-03-26</div>
                       </div>
                     
                   </div>
@@ -1842,8 +1852,8 @@
                     
                     
                       <div class="commit">
-                        <div class="sha">#e2850a5</div>
-                        <div class="message">deploy: 562fb410116d12497c891c9b8bc33178ca73e786</div>
+                        <div class="sha">#56bde7c</div>
+                        <div class="message">deploy: 9ba79bf9899768c31a1591c04f98969210eea241</div>
                       </div>
                     
                   </div>
@@ -1878,8 +1888,8 @@
                     
                     
                       <div class="commit">
-                        <div class="sha">#562fb41</div>
-                        <div class="message">Get HoaHocTro news - hoahoctro - 2025-03-26T00:19:12Z</div>
+                        <div class="sha">#9ba79bf</div>
+                        <div class="message">Get BaoChinhPhu news - baochinhphu - 2025-03-26T02:06:10Z</div>
                       </div>
                     
                   </div>
@@ -1914,8 +1924,8 @@
                     
                     
                       <div class="commit">
-                        <div class="sha">#b4f2d26</div>
-                        <div class="message">Get BaoChinhPhu news - baochinhphu - 2025-03-26T00:14:46Z</div>
+                        <div class="sha">#f6d460c</div>
+                        <div class="message">Get NLD news - nld - 2025-03-26T02:01:52Z</div>
                       </div>
                     
                   </div>
