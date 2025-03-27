@@ -1761,27 +1761,17 @@
                   <div class="field">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
                     <div class="content">
-                      <div class="user">github-actions[bot]</div> pushed 3 commits in <span class="repo">ePlus-DEV/top-github</span>
+                      <div class="user">github-actions[bot]</div> pushed 1 commit in <span class="repo">ePlus-DEV/news</span>
                     </div>
                   </div>
                   <div class="details">
                     
-                      <div>on branch <span class="code">gh-pages</span></div>
+                      <div>on branch <span class="code">main</span></div>
                     
                     
                       <div class="commit">
-                        <div class="sha">#48b2098</div>
-                        <div class="message">saudi arabia: updates for 2025-03-27</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#f766a8f</div>
-                        <div class="message">rwanda: updates for 2025-03-27</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#daf092c</div>
-                        <div class="message">russia: updates for 2025-03-27</div>
+                        <div class="sha">#da90836</div>
+                        <div class="message">Get BaoChinhPhu news - baochinhphu - 2025-03-27T09:58:44Z</div>
                       </div>
                     
                   </div>
@@ -1812,12 +1802,12 @@
                   </div>
                   <div class="details">
                     
-                      <div>on branch <span class="code">main</span></div>
+                      <div>on branch <span class="code">gh-pages</span></div>
                     
                     
                       <div class="commit">
-                        <div class="sha">#f0621e7</div>
-                        <div class="message">Get ThanhNien news - thanhnien - 2025-03-27T09:54:24Z</div>
+                        <div class="sha">#0eb0503</div>
+                        <div class="message">deploy: f0621e75c4b1f2d78d89f22642c254bc6b4b11f4</div>
                       </div>
                     
                   </div>
@@ -1843,17 +1833,17 @@
                   <div class="field">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
                     <div class="content">
-                      <div class="user">github-actions[bot]</div> pushed 1 commit in <span class="repo">ePlus-DEV/.github</span>
+                      <div class="user">hoangsvit</div> pushed 1 commit in <span class="repo">ePlus-DEV/google-cloud-skills-boost-helper</span>
                     </div>
                   </div>
                   <div class="details">
                     
-                      <div>on branch <span class="code">main</span></div>
+                      <div>on branch <span class="code">wxt</span></div>
                     
                     
                       <div class="commit">
-                        <div class="sha">#c775c80</div>
-                        <div class="message">update README.md (2025-03-27 16:57:11)</div>
+                        <div class="sha">#a203cf3</div>
+                        <div class="message">Add FontAwesome support, create popup HTML structure, and remove unused options component</div>
                       </div>
                     
                   </div>
@@ -1879,7 +1869,7 @@
                   <div class="field">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
                     <div class="content">
-                      <div class="user">github-actions[bot]</div> pushed 1 commit in <span class="repo">ePlus-DEV/metrics</span>
+                      <div class="user">hoangsvit</div> pushed 1 commit in <span class="repo">ePlus-DEV/view-counter</span>
                     </div>
                   </div>
                   <div class="details">
@@ -1888,8 +1878,8 @@
                     
                     
                       <div class="commit">
-                        <div class="sha">#9146a16</div>
-                        <div class="message">Update img/pagespeed-eplus.dev.svg - [Skip GitHub Action]</div>
+                        <div class="sha">#f9b9395</div>
+                        <div class="message">Update views</div>
                       </div>
                     
                   </div>
@@ -1915,17 +1905,27 @@
                   <div class="field">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
                     <div class="content">
-                      <div class="user">github-actions[bot]</div> pushed 1 commit in <span class="repo">ePlus-DEV/metrics</span>
+                      <div class="user">github-actions[bot]</div> pushed 3 commits in <span class="repo">ePlus-DEV/top-github</span>
                     </div>
                   </div>
                   <div class="details">
                     
-                      <div>on branch <span class="code">main</span></div>
+                      <div>on branch <span class="code">gh-pages</span></div>
                     
                     
                       <div class="commit">
-                        <div class="sha">#f93bbcc</div>
-                        <div class="message">Update img/activity.svg - [Skip GitHub Action]</div>
+                        <div class="sha">#48b2098</div>
+                        <div class="message">saudi arabia: updates for 2025-03-27</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#f766a8f</div>
+                        <div class="message">rwanda: updates for 2025-03-27</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#daf092c</div>
+                        <div class="message">russia: updates for 2025-03-27</div>
                       </div>
                     
                   </div>
