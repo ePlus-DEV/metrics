@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="467" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="450" class="">
 
   <defs><style/></defs>
   <style data-optimizable="true">/* SVG global context */
@@ -1761,7 +1761,7 @@
                   <div class="field">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
                     <div class="content">
-                      <div class="user">github-actions[bot]</div> pushed 1 commit in <span class="repo">ePlus-DEV/news</span>
+                      <div class="user">github-actions[bot]</div> pushed 1 commit in <span class="repo">ePlus-DEV/top-github-users</span>
                     </div>
                   </div>
                   <div class="details">
@@ -1770,8 +1770,8 @@
                     
                     
                       <div class="commit">
-                        <div class="sha">#c2a3134</div>
-                        <div class="message">deploy: 5405efa543915ad8dd9f1a903e2c7d8ad12da5e1</div>
+                        <div class="sha">#5457329</div>
+                        <div class="message">deploy: 5a7d57c2ecec603c84bd21e6462e5589ca1abbfb</div>
                       </div>
                     
                   </div>
@@ -1797,125 +1797,7 @@
                   <div class="field">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
                     <div class="content">
-                      <div class="user">hoangsvit</div> pushed 1 commit in <span class="repo">ePlus-DEV/google-cloud-skills-boost-helper</span>
-                    </div>
-                  </div>
-                  <div class="details">
-                    
-                      <div>on branch <span class="code">wxt</span></div>
-                    
-                    
-                      <div class="commit">
-                        <div class="sha">#df41336</div>
-                        <div class="message">refactor: remove unused background script</div>
-                      </div>
-                    
-                  </div>
-                
-                
-                
-                
-                
-              </section>
-            </div>
-          
-            <div class="row fill-width">
-              <section class="activity">
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                  <div class="field">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-                    <div class="content">
-                      <div class="user">deepsource-autofix[bot]</div> pushed 1 commit in <span class="repo">ePlus-DEV/google-cloud-skills-boost-helper</span>
-                    </div>
-                  </div>
-                  <div class="details">
-                    
-                      <div>on branch <span class="code">wxt</span></div>
-                    
-                    
-                      <div class="commit">
-                        <div class="sha">#9160b09</div>
-                        <div class="message">style: format code with Prettier
-
-This commit fixes the style issues introduced in 66f7852 according to the output
-from Prettier.
-
-Details: https://github.com/ePlus-DEV/google-cloud-skills-boost-helper/pull/15</div>
-                      </div>
-                    
-                  </div>
-                
-                
-                
-                
-                
-              </section>
-            </div>
-          
-            <div class="row fill-width">
-              <section class="activity">
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                  <div class="field">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-                    <div class="content">
-                      <div class="user">hoangsvit</div> pushed 2 commits in <span class="repo">ePlus-DEV/google-cloud-skills-boost-helper</span>
-                    </div>
-                  </div>
-                  <div class="details">
-                    
-                      <div>on branch <span class="code">wxt</span></div>
-                    
-                    
-                      <div class="commit">
-                        <div class="sha">#66f7852</div>
-                        <div class="message">refactor: streamline release workflow and remove unused FontAwesome configuration</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#4666b3b</div>
-                        <div class="message">refactor: restructure profile URL initialization and event listener setup</div>
-                      </div>
-                    
-                  </div>
-                
-                
-                
-                
-                
-              </section>
-            </div>
-          
-            <div class="row fill-width">
-              <section class="activity">
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                  <div class="field">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-                    <div class="content">
-                      <div class="user">github-actions[bot]</div> pushed 1 commit in <span class="repo">ePlus-DEV/news</span>
+                      <div class="user">github-actions[bot]</div> pushed 1 commit in <span class="repo">ePlus-DEV/metrics</span>
                     </div>
                   </div>
                   <div class="details">
@@ -1924,8 +1806,116 @@ Details: https://github.com/ePlus-DEV/google-cloud-skills-boost-helper/pull/15</
                     
                     
                       <div class="commit">
-                        <div class="sha">#5405efa</div>
-                        <div class="message">Get MucTim news - muctim - 2025-03-31T12:01:43Z</div>
+                        <div class="sha">#ba22fbc</div>
+                        <div class="message">Update img/pagespeed-eplus.dev.svg - [Skip GitHub Action]</div>
+                      </div>
+                    
+                  </div>
+                
+                
+                
+                
+                
+              </section>
+            </div>
+          
+            <div class="row fill-width">
+              <section class="activity">
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                  <div class="field">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
+                    <div class="content">
+                      <div class="user">github-actions[bot]</div> pushed 1 commit in <span class="repo">ePlus-DEV/metrics</span>
+                    </div>
+                  </div>
+                  <div class="details">
+                    
+                      <div>on branch <span class="code">main</span></div>
+                    
+                    
+                      <div class="commit">
+                        <div class="sha">#159d5d0</div>
+                        <div class="message">Update img/activity.svg - [Skip GitHub Action]</div>
+                      </div>
+                    
+                  </div>
+                
+                
+                
+                
+                
+              </section>
+            </div>
+          
+            <div class="row fill-width">
+              <section class="activity">
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                  <div class="field">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
+                    <div class="content">
+                      <div class="user">github-actions[bot]</div> pushed 1 commit in <span class="repo">ePlus-DEV/metrics</span>
+                    </div>
+                  </div>
+                  <div class="details">
+                    
+                      <div>on branch <span class="code">main</span></div>
+                    
+                    
+                      <div class="commit">
+                        <div class="sha">#be80285</div>
+                        <div class="message">Update img/achievements.compact.svg - [Skip GitHub Action]</div>
+                      </div>
+                    
+                  </div>
+                
+                
+                
+                
+                
+              </section>
+            </div>
+          
+            <div class="row fill-width">
+              <section class="activity">
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                  <div class="field">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
+                    <div class="content">
+                      <div class="user">github-actions[bot]</div> pushed 1 commit in <span class="repo">ePlus-DEV/metrics</span>
+                    </div>
+                  </div>
+                  <div class="details">
+                    
+                      <div>on branch <span class="code">main</span></div>
+                    
+                    
+                      <div class="commit">
+                        <div class="sha">#d63e005</div>
+                        <div class="message">Update img/classic.svg - [Skip GitHub Action]</div>
                       </div>
                     
                   </div>
