@@ -1770,7 +1770,7 @@
                     
                     
                       <div class="commit">
-                        <div class="sha">#4d03eab</div>
+                        <div class="sha">#a460109</div>
                         <div class="message">Update img/classic.svg - [Skip GitHub Action]</div>
                       </div>
                     
@@ -1802,12 +1802,12 @@
                   </div>
                   <div class="details">
                     
-                      <div>on branch <span class="code">main</span></div>
+                      <div>on branch <span class="code">gh-pages</span></div>
                     
                     
                       <div class="commit">
-                        <div class="sha">#34968bf</div>
-                        <div class="message">Get HoaHocTro news - hoahoctro - 2025-04-19T07:05:36Z</div>
+                        <div class="sha">#969accb</div>
+                        <div class="message">deploy: e98050a7dd4fc56631e9adcf1543018f36de8222</div>
                       </div>
                     
                   </div>
@@ -1842,8 +1842,8 @@
                     
                     
                       <div class="commit">
-                        <div class="sha">#51f5a52</div>
-                        <div class="message">update README.md (2025-04-19 14:12:12)</div>
+                        <div class="sha">#8bfb56c</div>
+                        <div class="message">update README.md (2025-04-19 14:25:13)</div>
                       </div>
                     
                   </div>
@@ -1878,8 +1878,8 @@
                     
                     
                       <div class="commit">
-                        <div class="sha">#dd45298</div>
-                        <div class="message">Get NLD news - nld - 2025-04-19T07:05:36Z</div>
+                        <div class="sha">#e98050a</div>
+                        <div class="message">Get vnexpress news - vnexpress-kinh-doanh - 2025-04-19T07:14:21Z</div>
                       </div>
                     
                   </div>
@@ -1914,8 +1914,8 @@
                     
                     
                       <div class="commit">
-                        <div class="sha">#fbc0a53</div>
-                        <div class="message">Get BaoChinhPhu news - baochinhphu - 2025-04-19T07:00:53Z</div>
+                        <div class="sha">#a5c04e5</div>
+                        <div class="message">Get vnexpress news - vnexpress - 2025-04-19T07:14:21Z</div>
                       </div>
                     
                   </div>
