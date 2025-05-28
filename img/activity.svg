@@ -1766,12 +1766,12 @@
                   </div>
                   <div class="details">
                     
-                      <div>on branch <span class="code">main</span></div>
+                      <div>on branch <span class="code">gh-pages</span></div>
                     
                     
                       <div class="commit">
-                        <div class="sha">#db536d2</div>
-                        <div class="message">Get ThuVienPhapLuat news - thuvienphapluat - 2025-05-28T04:01:22Z</div>
+                        <div class="sha">#9ad1330</div>
+                        <div class="message">deploy: 7747274b2d2f08cac75c455de97eaf6d0d4d3615</div>
                       </div>
                     
                   </div>
@@ -1806,8 +1806,8 @@
                     
                     
                       <div class="commit">
-                        <div class="sha">#a958e16</div>
-                        <div class="message">Get MucTim news - muctim - 2025-05-28T03:44:56Z</div>
+                        <div class="sha">#ff6237e</div>
+                        <div class="message">Get vnexpress news - vnexpress-suc-khoe - 2025-05-28T04:31:29Z</div>
                       </div>
                     
                   </div>
@@ -1842,8 +1842,8 @@
                     
                     
                       <div class="commit">
-                        <div class="sha">#1c74ba5</div>
-                        <div class="message">Get vnexpress news - vnexpress-suc-khoe - 2025-05-28T03:50:12Z</div>
+                        <div class="sha">#2238709</div>
+                        <div class="message">Get vnexpress news - vnexpress - 2025-05-28T04:31:29Z</div>
                       </div>
                     
                   </div>
@@ -1878,8 +1878,8 @@
                     
                     
                       <div class="commit">
-                        <div class="sha">#3132189</div>
-                        <div class="message">Get vnexpress news - vnexpress - 2025-05-28T03:50:12Z</div>
+                        <div class="sha">#7dc66c8</div>
+                        <div class="message">Get vnexpress news - vnexpress-kinh-doanh - 2025-05-28T04:31:29Z</div>
                       </div>
                     
                   </div>
@@ -1914,8 +1914,8 @@
                     
                     
                       <div class="commit">
-                        <div class="sha">#0f2ee8c</div>
-                        <div class="message">Get vnexpress news - vnexpress-phap-luat - 2025-05-28T03:50:12Z</div>
+                        <div class="sha">#8250698</div>
+                        <div class="message">Get vnexpress news - vnexpress-the-thao - 2025-05-28T04:31:29Z</div>
                       </div>
                     
                   </div>
