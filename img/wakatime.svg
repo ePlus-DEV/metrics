@@ -1852,7 +1852,7 @@
                   
                     <div class="entry">
                       <span class="name">Vue.js</span>
-                      <div class="bar" style="width: 11.159999999999998%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <div class="bar" style="width: 11.152%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                       <span class="value">14%</span>
                     </div>
                   
