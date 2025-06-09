@@ -1770,7 +1770,7 @@
                     
                     
                       <div class="commit">
-                        <div class="sha">#aaf6840</div>
+                        <div class="sha">#21a1141</div>
                         <div class="message">Update img/classic.svg - [Skip GitHub Action]</div>
                       </div>
                     
@@ -1806,8 +1806,8 @@
                     
                     
                       <div class="commit">
-                        <div class="sha">#e8e2339</div>
-                        <div class="message">Get ThanhNien news - thanhnien - 2025-06-09T03:53:41Z</div>
+                        <div class="sha">#b54b23d</div>
+                        <div class="message">Get vnexpress news - vnexpress-tin-moi-nhat - 2025-06-09T04:24:48Z</div>
                       </div>
                     
                   </div>
@@ -1842,8 +1842,8 @@
                     
                     
                       <div class="commit">
-                        <div class="sha">#487b6b0</div>
-                        <div class="message">Get DanTri news - dantri-lao-dong-viec-lam - 2025-06-09T03:43:38Z</div>
+                        <div class="sha">#97b5ef3</div>
+                        <div class="message">Get vnexpress news - vnexpress-the-thao - 2025-06-09T04:24:48Z</div>
                       </div>
                     
                   </div>
@@ -1878,8 +1878,8 @@
                     
                     
                       <div class="commit">
-                        <div class="sha">#b945371</div>
-                        <div class="message">Get DanTri news - dantri-suc-khoe - 2025-06-09T03:43:38Z</div>
+                        <div class="sha">#2ba61a8</div>
+                        <div class="message">Get vnexpress news - vnexpress-giai-tri - 2025-06-09T04:24:48Z</div>
                       </div>
                     
                   </div>
@@ -1910,12 +1910,12 @@
                   </div>
                   <div class="details">
                     
-                      <div>on branch <span class="code">main</span></div>
+                      <div>on branch <span class="code">gh-pages</span></div>
                     
                     
                       <div class="commit">
-                        <div class="sha">#175b64c</div>
-                        <div class="message">Get DanTri news - dantri-o-to-xe-may - 2025-06-09T03:43:38Z</div>
+                        <div class="sha">#bf5f6e6</div>
+                        <div class="message">deploy: 91c036878377cd2c5e09c878e3e55b519ec7c440</div>
                       </div>
                     
                   </div>
