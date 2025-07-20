@@ -1761,17 +1761,17 @@
                   <div class="field">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
                     <div class="content">
-                      <div class="user">github-actions[bot]</div> pushed 1 commit in <span class="repo">ePlus-DEV/news</span>
+                      <div class="user">hoangsvit</div> pushed 1 commit in <span class="repo">ePlus-DEV/top-github-users</span>
                     </div>
                   </div>
                   <div class="details">
                     
-                      <div>on branch <span class="code">gh-pages</span></div>
+                      <div>on branch <span class="code">main</span></div>
                     
                     
                       <div class="commit">
-                        <div class="sha">#be95012</div>
-                        <div class="message">deploy: f99f4dae7c6ae0ea94b88c16286e7c8b7b492708</div>
+                        <div class="sha">#18bd48d</div>
+                        <div class="message">Update Mexico</div>
                       </div>
                     
                   </div>
@@ -1806,8 +1806,8 @@
                     
                     
                       <div class="commit">
-                        <div class="sha">#9c7a30b</div>
-                        <div class="message">Get vnexpress news - vnexpress-du-lich - 2025-07-20T05:27:16Z</div>
+                        <div class="sha">#3f8e14e</div>
+                        <div class="message">Get DanTri news - dantri-giai-tri - 2025-07-20T05:59:49Z</div>
                       </div>
                     
                   </div>
@@ -1842,8 +1842,8 @@
                     
                     
                       <div class="commit">
-                        <div class="sha">#39456aa</div>
-                        <div class="message">Get vnexpress news - vnexpress-tin-moi-nhat - 2025-07-20T05:27:16Z</div>
+                        <div class="sha">#7ac8b1a</div>
+                        <div class="message">Get DanTri news - dantri-giao-duc - 2025-07-20T05:59:49Z</div>
                       </div>
                     
                   </div>
@@ -1878,8 +1878,8 @@
                     
                     
                       <div class="commit">
-                        <div class="sha">#39b9521</div>
-                        <div class="message">deploy: 0e3888ffb44db32a42fac2f67b0a3719abee467d</div>
+                        <div class="sha">#72ef221</div>
+                        <div class="message">deploy: e7eb347bef96f373e0994422c4c9a8eb7dfdcf1d</div>
                       </div>
                     
                   </div>
@@ -1914,8 +1914,8 @@
                     
                     
                       <div class="commit">
-                        <div class="sha">#f99f4da</div>
-                        <div class="message">Get MucTim news - muctim - 2025-07-20T05:16:47Z</div>
+                        <div class="sha">#1e73c8c</div>
+                        <div class="message">Get BaoChinhPhu news - baochinhphu - 2025-07-20T05:59:49Z</div>
                       </div>
                     
                   </div>
