@@ -1770,8 +1770,8 @@
                     
                     
                       <div class="commit">
-                        <div class="sha">#0d4a1c8</div>
-                        <div class="message">deploy: c7859524923015a23aad3316240a4fefdd828708</div>
+                        <div class="sha">#451a2ab</div>
+                        <div class="message">deploy: 8cd8ca249608d736f97dd5339c0286ae8f7115ad</div>
                       </div>
                     
                   </div>
@@ -1806,8 +1806,44 @@
                     
                     
                       <div class="commit">
-                        <div class="sha">#8cd8ca2</div>
-                        <div class="message">Update Germany</div>
+                        <div class="sha">#1796fe6</div>
+                        <div class="message">Update India</div>
+                      </div>
+                    
+                  </div>
+                
+                
+                
+                
+                
+              </section>
+            </div>
+          
+            <div class="row fill-width">
+              <section class="activity">
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                  <div class="field">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
+                    <div class="content">
+                      <div class="user">github-actions[bot]</div> pushed 1 commit in <span class="repo">ePlus-DEV/news</span>
+                    </div>
+                  </div>
+                  <div class="details">
+                    
+                      <div>on branch <span class="code">gh-pages</span></div>
+                    
+                    
+                      <div class="commit">
+                        <div class="sha">#1bc6783</div>
+                        <div class="message">deploy: c37d040746cdd4ca6ddc94ab2e481922ae21981d</div>
                       </div>
                     
                   </div>
@@ -1842,8 +1878,8 @@
                     
                     
                       <div class="commit">
-                        <div class="sha">#a14e6c5</div>
-                        <div class="message">Get vnexpress news - vnexpress-the-thao - 2025-07-24T00:27:39Z</div>
+                        <div class="sha">#c37d040</div>
+                        <div class="message">Get MucTim news - muctim - 2025-07-24T02:31:49Z</div>
                       </div>
                     
                   </div>
@@ -1878,44 +1914,8 @@
                     
                     
                       <div class="commit">
-                        <div class="sha">#04bad64</div>
-                        <div class="message">Get vnexpress news - vnexpress-suc-khoe - 2025-07-24T00:27:39Z</div>
-                      </div>
-                    
-                  </div>
-                
-                
-                
-                
-                
-              </section>
-            </div>
-          
-            <div class="row fill-width">
-              <section class="activity">
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                  <div class="field">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-                    <div class="content">
-                      <div class="user">github-actions[bot]</div> pushed 1 commit in <span class="repo">ePlus-DEV/news</span>
-                    </div>
-                  </div>
-                  <div class="details">
-                    
-                      <div>on branch <span class="code">main</span></div>
-                    
-                    
-                      <div class="commit">
-                        <div class="sha">#336816e</div>
-                        <div class="message">Get vnexpress news - vnexpress-the-gioi - 2025-07-24T00:27:39Z</div>
+                        <div class="sha">#a24720c</div>
+                        <div class="message">Get NLD news - nld - 2025-07-24T02:26:27Z</div>
                       </div>
                     
                   </div>
