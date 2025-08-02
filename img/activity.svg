@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="545" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="361" class="">
 
   <defs><style/></defs>
   <style data-optimizable="true">/* SVG global context */
@@ -1770,8 +1770,8 @@
                     
                     
                       <div class="commit">
-                        <div class="sha">#bbccb0f</div>
-                        <div class="message">Update Belgium</div>
+                        <div class="sha">#6a052e2</div>
+                        <div class="message">Update China</div>
                       </div>
                     
                   </div>
@@ -1806,7 +1806,7 @@
                     
                     
                       <div class="commit">
-                        <div class="sha">#4354b34</div>
+                        <div class="sha">#20fcd8a</div>
                         <div class="message">Update views</div>
                       </div>
                     
@@ -1842,39 +1842,11 @@
                     
                     
                       <div class="commit">
-                        <div class="sha">#0f64fbe</div>
+                        <div class="sha">#61daf54</div>
                         <div class="message">Update views</div>
                       </div>
                     
                   </div>
-                
-                
-                
-                
-                
-              </section>
-            </div>
-          
-            <div class="row fill-width">
-              <section class="activity">
-                
-                  <div class="field">
-                    
-                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/></svg>
-                    
-                    <div class="content">
-                      Created new
-                      tag  <span class="code">1.1.5</span> in  <span class="repo">ePlus-DEV/google-cloud-skills-boost-helper</span>
-                    </div>
-                  </div>
-                
-                
-                
-                
-                
-                
-                
-                
                 
                 
                 
@@ -1897,7 +1869,7 @@
                   <div class="field">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
                     <div class="content">
-                      Pushed 14 commits in <span class="repo">ePlus-DEV/google-cloud-skills-boost-helper</span>
+                      Pushed 1 commit in <span class="repo">ePlus-DEV/view-counter</span>
                     </div>
                   </div>
                   <div class="details">
@@ -1906,96 +1878,44 @@
                     
                     
                       <div class="commit">
-                        <div class="sha">#4d51157</div>
-                        <div class="message">Merge pull request #46 from ePlus-DEV/dev
-
-v1.1.5</div>
+                        <div class="sha">#6a1eeb3</div>
+                        <div class="message">Update views</div>
                       </div>
                     
-                      <div class="commit">
-                        <div class="sha">#df7b463</div>
-                        <div class="message">style: format code with Prettier
-
-This commit fixes the style issues introduced in 25520ac according to the output
-from Prettier.
-
-Details: https://github.com/ePlus-DEV/google-cloud-skills-boost-helper/pull/46</div>
-                      </div>
+                  </div>
+                
+                
+                
+                
+                
+              </section>
+            </div>
+          
+            <div class="row fill-width">
+              <section class="activity">
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                  <div class="field">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
+                    <div class="content">
+                      Pushed 1 commit in <span class="repo">hoangsvit/github-profile-views-counter</span>
+                    </div>
+                  </div>
+                  <div class="details">
+                    
+                      <div>on branch <span class="code">main</span></div>
+                    
                     
                       <div class="commit">
-                        <div class="sha">#25520ac</div>
-                        <div class="message">refactor: update markdown content selector and enhance loading/error handling</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#a363c9b</div>
-                        <div class="message">fix: remove unused parameter from showLinkFallbackMessage function</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#849bb0a</div>
-                        <div class="message">style: format code with Prettier
-
-This commit fixes the style issues introduced in f8daaf8 according to the output
-from Prettier.
-
-Details: https://github.com/ePlus-DEV/google-cloud-skills-boost-helper/pull/46</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#f8daaf8</div>
-                        <div class="message">fix: remove commented-out card for leaderboard from settings section</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#f159ff1</div>
-                        <div class="message">fix: remove unnecessary padding from blockquote styling in markdown</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#325d243</div>
-                        <div class="message">feat: enhance link opening functionality with improved error handling and user notifications</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#4bcc4e4</div>
-                        <div class="message">fix: update developer URL to use HTTPS for improved security</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#4a5051b</div>
-                        <div class="message">style: format code with Prettier
-
-This commit fixes the style issues introduced in 910e7d3 according to the output
-from Prettier.
-
-Details: https://github.com/ePlus-DEV/google-cloud-skills-boost-helper/pull/46</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#910e7d3</div>
-                        <div class="message">refactor: remove deprecated extensionApi property from config</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#1b11f31</div>
-                        <div class="message">feat: Enhance Markdown rendering and link handling in popup
-
-- Implement custom link renderer in MarkdownService to open links in new tabs with target="_blank" and rel="noopener noreferrer".
-- Add setupLinkHandlers method in MarkdownService to manage link clicks and utilize browser API for opening links in new tabs.
-- Initialize MarkdownService in PopupService and load announcement content from a specified URL.
-- Add toggle functionality for announcement visibility in PopupService.
-- Update wxt.config.ts to include "tabs" permission for browser API usage.</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#e8744f2</div>
-                        <div class="message">feat: add markdown service and integrate markdown rendering in options page</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#be0dc82</div>
-                        <div class="message">chore: update version to 1.1.5 and add marked dependency</div>
+                        <div class="sha">#8e4d289</div>
+                        <div class="message">Update views</div>
                       </div>
                     
                   </div>
