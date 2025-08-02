@@ -1807,7 +1807,7 @@
                   
                     <div class="entry">
                       <span class="name">vpo</span>
-                      <div class="bar" style="width: 17.080000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <div class="bar" style="width: 16.880000000000003%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                       <span class="value">21%</span>
                     </div>
                   
@@ -1819,19 +1819,19 @@
                   
                     <div class="entry">
                       <span class="name">radio</span>
-                      <div class="bar" style="width: 10.8%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <div class="bar" style="width: 10.808%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                       <span class="value">14%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">google-cloud-skills-boost-helper</span>
-                      <div class="bar" style="width: 7.088%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <div class="bar" style="width: 7.279999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                       <span class="value">9%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">G-Front</span>
-                      <div class="bar" style="width: 6.192%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <div class="bar" style="width: 6.2%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                       <span class="value">8%</span>
                     </div>
                   
@@ -1846,19 +1846,19 @@
                   
                     <div class="entry">
                       <span class="name">PHP</span>
-                      <div class="bar" style="width: 36.696%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                      <div class="bar" style="width: 36.552%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                       <span class="value">46%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">TypeScript</span>
-                      <div class="bar" style="width: 10.048000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <div class="bar" style="width: 10.128%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                       <span class="value">13%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">Vue.js</span>
-                      <div class="bar" style="width: 7.944%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <div class="bar" style="width: 7.912%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                       <span class="value">10%</span>
                     </div>
                   
