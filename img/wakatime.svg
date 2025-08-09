@@ -1807,7 +1807,7 @@
                   
                     <div class="entry">
                       <span class="name">vpo</span>
-                      <div class="bar" style="width: 15.424%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <div class="bar" style="width: 15.304%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                       <span class="value">19%</span>
                     </div>
                   
@@ -1846,13 +1846,13 @@
                   
                     <div class="entry">
                       <span class="name">PHP</span>
-                      <div class="bar" style="width: 37.928%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                      <div class="bar" style="width: 37.816%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                       <span class="value">47%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">TypeScript</span>
-                      <div class="bar" style="width: 9.92%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <div class="bar" style="width: 9.968%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                       <span class="value">12%</span>
                     </div>
                   
@@ -1864,7 +1864,7 @@
                   
                     <div class="entry">
                       <span class="name">Other</span>
-                      <div class="bar" style="width: 4.88%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <div class="bar" style="width: 4.864%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                       <span class="value">6%</span>
                     </div>
                   
