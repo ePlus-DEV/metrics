@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="645" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="328" class="">
 
   <defs><style/></defs>
   <style data-optimizable="true">/* SVG global context */
@@ -1761,6 +1761,42 @@
                   <div class="field">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
                     <div class="content">
+                      Pushed 1 commit in <span class="repo">hoangsvit/github-profile-views-counter</span>
+                    </div>
+                  </div>
+                  <div class="details">
+                    
+                      <div>on branch <span class="code">main</span></div>
+                    
+                    
+                      <div class="commit">
+                        <div class="sha">#c669ccc</div>
+                        <div class="message">Update views</div>
+                      </div>
+                    
+                  </div>
+                
+                
+                
+                
+                
+              </section>
+            </div>
+          
+            <div class="row fill-width">
+              <section class="activity">
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                  <div class="field">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
+                    <div class="content">
                       Pushed 1 commit in <span class="repo">ePlus-DEV/top-github-users</span>
                     </div>
                   </div>
@@ -1875,166 +1911,6 @@
                 
                 
                 
-                
-                
-                
-                
-                
-              </section>
-            </div>
-          
-            <div class="row fill-width">
-              <section class="activity">
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                  <div class="field">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-                    <div class="content">
-                      Pushed 78 commits in <span class="repo">ePlus-DEV/google-cloud-skills-boost-helper</span>
-                    </div>
-                  </div>
-                  <div class="details">
-                    
-                      <div>on branch <span class="code">main</span></div>
-                    
-                    
-                      <div class="commit">
-                        <div class="sha">#e63cf28</div>
-                        <div class="message">style: format code with Prettier
-
-This commit fixes the style issues introduced in 23d0089 according to the output
-from Prettier.
-
-Details: https://github.com/ePlus-DEV/google-cloud-skills-boost-helper/pull/51</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#23d0089</div>
-                        <div class="message">Implement feature X to enhance user experience and fix bug Y in module Z</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#2e4cd5f</div>
-                        <div class="message">feat: update account preview with dynamic data and improved display</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#4d3d91a</div>
-                        <div class="message">feat: add account preview section with dynamic nickname display and statistics</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#e6b666a</div>
-                        <div class="message">feat: streamline account creation process by removing unnecessary reload and updating UI interactions</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#5d3c8d4</div>
-                        <div class="message">feat: enhance account management UI with improved button styles and accessibility features</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#f696dd8</div>
-                        <div class="message">feat: remove quick account creation form and related event listeners from account management UI</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#2a9cfac</div>
-                        <div class="message">feat: add profile viewing functionality and quick account creation form to account management UI</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#20653fb</div>
-                        <div class="message">feat: enhance account management UI with dynamic account cards and improved event handling</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#d6687fc</div>
-                        <div class="message">feat: add account existence check and user detail extraction
-
-- Implemented `isAccountExists` method in `AccountService` to check for existing accounts based on profile URL.
-- Enhanced `createAccount` method to throw an error if an account with the same profile URL already exists.
-- Added `extractUserDetails` method to handle user details extraction from `ArcadeData`, supporting both array and object formats.
-- Updated `OptionsService` to utilize the new user detail extraction method and improve account handling during profile fetching.
-- Refactored UI updates to provide feedback on account creation and updates, including success messages and error handling.
-- Improved modal handling for adding accounts, including resetting state and managing profile previews.</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#51df6e2</div>
-                        <div class="message">feat: enhance account management UI with add, edit, and import functionalities</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#b057c95</div>
-                        <div class="message">feat: implement multi-account management system
-
-- Add AccountService for handling multiple accounts, including creation, updating, deletion, and retrieval of account data.
-- Integrate AccountService into OptionsService and PopupService for managing account-related functionalities.
-- Update StorageService to support migration from legacy single account storage to the new multi-account structure.
-- Enhance UI components to allow users to switch between accounts and display relevant account information.
-- Introduce new types for accounts and account data structures in the types definition file.</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#b62481b</div>
-                        <div class="message">Merge pull request #50 from ePlus-DEV/codex/update-error-message-in-setupi18n
-
-fix: improve i18n error message</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#fd0e2af</div>
-                        <div class="message">fix: improve i18n error message</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#a2b3562</div>
-                        <div class="message">Merge pull request #49 from ePlus-DEV/codex/update-types-in-utils/storage.ts
-
-fix storage item types</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#e32f2f1</div>
-                        <div class="message">Merge remote-tracking branch 'origin/dev' into codex/update-types-in-utils/storage.ts</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#2c0a893</div>
-                        <div class="message">chore: correct storage item types</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#6a2f36a</div>
-                        <div class="message">Merge pull request #48 from ePlus-DEV/p1jw4m-codex/locate-and-fix-important-bug
-
-fix: show copied link when link opening fails</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#a847553</div>
-                        <div class="message">style: format code with Prettier
-
-This commit fixes the style issues introduced in 1456b7e according to the output
-from Prettier.
-
-Details: https://github.com/ePlus-DEV/google-cloud-skills-boost-helper/pull/48</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#1456b7e</div>
-                        <div class="message">fix: validate URL in link fallback</div>
-                      </div>
-                    
-                  </div>
                 
                 
                 
