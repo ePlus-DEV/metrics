@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1627" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1311" class="">
 
   <defs><style/></defs>
   <style data-optimizable="true">/* SVG global context */
@@ -1761,6 +1761,42 @@
                   <div class="field">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
                     <div class="content">
+                      Pushed 1 commit in <span class="repo">hoangsvit/github-profile-views-counter</span>
+                    </div>
+                  </div>
+                  <div class="details">
+                    
+                      <div>on branch <span class="code">main</span></div>
+                    
+                    
+                      <div class="commit">
+                        <div class="sha">#7f4eaf2</div>
+                        <div class="message">Update views</div>
+                      </div>
+                    
+                  </div>
+                
+                
+                
+                
+                
+              </section>
+            </div>
+          
+            <div class="row fill-width">
+              <section class="activity">
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                  <div class="field">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
+                    <div class="content">
                       Pushed 1 commit in <span class="repo">ePlus-DEV/view-counter</span>
                     </div>
                   </div>
@@ -2256,238 +2292,6 @@ Co-authored-by: Marko Topolnik &lt;marko.topolnik@gmail.com&gt;</div>
                       <div class="commit">
                         <div class="sha">#f1b1196</div>
                         <div class="message">chore(core): switch ent to modern pg authenticator (#5955)</div>
-                      </div>
-                    
-                  </div>
-                
-                
-                
-                
-                
-              </section>
-            </div>
-          
-            <div class="row fill-width">
-              <section class="activity">
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                  <div class="field">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-                    <div class="content">
-                      Pushed 25 commits in <span class="repo">hoangsvit/drawdb</span>
-                    </div>
-                  </div>
-                  <div class="details">
-                    
-                      <div>on branch <span class="code">main</span></div>
-                    
-                    
-                      <div class="commit">
-                        <div class="sha">#0309c7a</div>
-                        <div class="message">Fix import when default is an array (#577)
-
-* Fix import when default is an array
-
-* remove log</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#fc4cbf9</div>
-                        <div class="message">Bump vite from 6.3.5 to 6.3.6 (#575)
-
-Bumps [vite](https://github.com/vitejs/vite/tree/HEAD/packages/vite) from 6.3.5 to 6.3.6.
-- [Release notes](https://github.com/vitejs/vite/releases)
-- [Changelog](https://github.com/vitejs/vite/blob/v6.3.6/packages/vite/CHANGELOG.md)
-- [Commits](https://github.com/vitejs/vite/commits/v6.3.6/packages/vite)
-
----
-updated-dependencies:
-- dependency-name: vite
-  dependency-version: 6.3.6
-  dependency-type: direct:development
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#b051400</div>
-                        <div class="message">Fix area resize in one direction (#569)</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#73740a3</div>
-                        <div class="message">Set min area size (#567)</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#6813313</div>
-                        <div class="message">Bump jspdf from 3.0.1 to 3.0.2 (#565)
-
-Bumps [jspdf](https://github.com/parallax/jsPDF) from 3.0.1 to 3.0.2.
-- [Release notes](https://github.com/parallax/jsPDF/releases)
-- [Changelog](https://github.com/parallax/jsPDF/blob/master/RELEASE.md)
-- [Commits](https://github.com/parallax/jsPDF/compare/v3.0.1...v3.0.2)
-
----
-updated-dependencies:
-- dependency-name: jspdf
-  dependency-version: 3.0.2
-  dependency-type: direct:production
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#4c792d3</div>
-                        <div class="message">Change html-to-image to version 1.11.11 (#562)</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#da7ccee</div>
-                        <div class="message">Diagram versioning (#560)
-
-* clean up sidesheet
-
-* clean up sharing
-
-* add revisions sidesheet
-
-* update getCommits and clean up
-
-* update date localization
-
-* load diagram in read only mode from previous version
-
-* disable input from control panel and popovers
-
-* add restore warning modal
-
-* separate share and versions
-
-* update versions
-
-* finalize versioning implementation, add pagination
-
-* fix package-lock.json
-
-* clear versions cache on flush storgae
-
-* disable menubar items when in read only mode
-
-* disable remaining fields in readonlt
-
-* suppress eslint only-export-components rule
-
-* show loading version progress</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#1eb4e29</div>
-                        <div class="message">Allow editing cardinality 'many' label (#559)</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#3eac4c3</div>
-                        <div class="message">Deduce cardinality from fields (#557)</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#d99f77d</div>
-                        <div class="message">Increase pixel ratio for png export (#556)</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#21a68e9</div>
-                        <div class="message">Add more keywords for defaults (#553)
-
-* Add more keywords for defaults
-
-* Add date functions to check default</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#2d7c2c6</div>
-                        <div class="message">Fix enum import from postgres (#551)</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#6ade511</div>
-                        <div class="message">Fix multiline dbml comment export (#550)</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#b62471c</div>
-                        <div class="message">Add ctrl select support (#527)
-
-* Add ctrl select support
-
-* fix the issue with clicking on overlapping objects
-
-* simplify the code, add meta to ctrl for macos
-
-* fix lock unlock with command on macos</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#0a60bd9</div>
-                        <div class="message">Import diagram fixes (#549)</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#d464fed</div>
-                        <div class="message">Upgrade node-sql-parser to v5.3.11 (#548)</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#2a2c92b</div>
-                        <div class="message">Fix some cases of dbml export (#544)
-
-* Fix some cases of dbml export
-
-* revert table id logic
-
-* change function quotes to dbml case only</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#92d4adb</div>
-                        <div class="message">Update dbml parser (#542)</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#5fdaa18</div>
-                        <div class="message">Bump form-data from 4.0.0 to 4.0.4 (#541)
-
-Bumps [form-data](https://github.com/form-data/form-data) from 4.0.0 to 4.0.4.
-- [Release notes](https://github.com/form-data/form-data/releases)
-- [Changelog](https://github.com/form-data/form-data/blob/master/CHANGELOG.md)
-- [Commits](https://github.com/form-data/form-data/compare/v4.0.0...v4.0.4)
-
----
-updated-dependencies:
-- dependency-name: form-data
-  dependency-version: 4.0.4
-  dependency-type: indirect
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#0e196de</div>
-                        <div class="message">Fix handleColorChange when no redo action is recorded (#538)</div>
                       </div>
                     
                   </div>
