@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="678" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="361" class="">
 
   <defs><style/></defs>
   <style data-optimizable="true">/* SVG global context */
@@ -1761,6 +1761,42 @@
                   <div class="field">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
                     <div class="content">
+                      Pushed 1 commit in <span class="repo">hoangsvit/github-profile-views-counter</span>
+                    </div>
+                  </div>
+                  <div class="details">
+                    
+                      <div>on branch <span class="code">main</span></div>
+                    
+                    
+                      <div class="commit">
+                        <div class="sha">#cad3fdb</div>
+                        <div class="message">Update views</div>
+                      </div>
+                    
+                  </div>
+                
+                
+                
+                
+                
+              </section>
+            </div>
+          
+            <div class="row fill-width">
+              <section class="activity">
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                  <div class="field">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
+                    <div class="content">
                       Pushed 1 commit in <span class="repo">ePlus-DEV/top-github-users</span>
                     </div>
                   </div>
@@ -1880,149 +1916,6 @@
                       <div class="commit">
                         <div class="sha">#8c11adc</div>
                         <div class="message">Update views</div>
-                      </div>
-                    
-                  </div>
-                
-                
-                
-                
-                
-              </section>
-            </div>
-          
-            <div class="row fill-width">
-              <section class="activity">
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                  <div class="field">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-                    <div class="content">
-                      Pushed 83 commits in <span class="repo">hoangsvit/ShareX</span>
-                    </div>
-                  </div>
-                  <div class="details">
-                    
-                      <div>on branch <span class="code">develop</span></div>
-                    
-                    
-                      <div class="commit">
-                        <div class="sha">#66c02fe</div>
-                        <div class="message">Update HistoryManagerSQLite.cs</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#581c8c8</div>
-                        <div class="message">Parse response</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#52799f3</div>
-                        <div class="message">While renaming file not include file extension</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#b7b3b73</div>
-                        <div class="message">Merge pull request #8052 from BrycensRanch/develop
-
-Restore UNC path support by parsing connection string with .NET</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#597831d</div>
-                        <div class="message">chore: remove dangling import
-
-I was testing escaping UNC paths. It did work, but parsing via .NET simply *just works* without using Regex.</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#b25ada9</div>
-                        <div class="message">fix(HistoryLib): restore UNC path support by parsing connection strings via .NET
-
-Previously, opening a SQLite database stored on a network share via a UNC path
- (e.g. \\server\share\file.db) would fail with "unable to open database file".
-
- This change uses .NET’s connection string parsing to correctly handle UNC paths,
- ensuring databases on network shares can be opened without errors.
-
- Fixes ShareX/ShareX#8047</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#96883ba</div>
-                        <div class="message">Removed history mock data</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#1c48d72</div>
-                        <div class="message">CETCompat false</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#db626a9</div>
-                        <div class="message">Update MinVersion</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#bc8c9bd</div>
-                        <div class="message">Release 18.0.0</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#8c0fac3</div>
-                        <div class="message">Set Localizable true</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#31dcada</div>
-                        <div class="message">Added "Import folder" button to image history form</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#9ca7523</div>
-                        <div class="message">Always show message box</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#5c53452</div>
-                        <div class="message">Added message box</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#e128ba9</div>
-                        <div class="message">Auto close import form</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#1b6de50</div>
-                        <div class="message">Added "Import folder" button to history form</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#001e478</div>
-                        <div class="message">Removed Donate button from Steam build</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#4569ccf</div>
-                        <div class="message">Set busy timeout</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#8986411</div>
-                        <div class="message">Added try catch</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#a25b6db</div>
-                        <div class="message">Added "Only show image files" option to image history</div>
                       </div>
                     
                   </div>
