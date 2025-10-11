@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="361" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="687" class="">
 
   <defs><style/></defs>
   <style data-optimizable="true">/* SVG global context */
@@ -1761,6 +1761,209 @@
                   <div class="field">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
                     <div class="content">
+                      Pushed 36 commits in <span class="repo">hoangsvit/uptime</span>
+                    </div>
+                  </div>
+                  <div class="details">
+                    
+                      <div>on branch <span class="code">master</span></div>
+                    
+                    
+                      <div class="commit">
+                        <div class="sha">#975be22</div>
+                        <div class="message">🟩 ePlus Dashboard is up (200 in 651 ms) [skip ci] [upptime]</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#cc2308e</div>
+                        <div class="message">🟩 ePlus Draw is up (200 in 595 ms) [skip ci] [upptime]</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#0f4519e</div>
+                        <div class="message">🟩 ePlus Markdown is up (200 in 182 ms) [skip ci] [upptime]</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#acc0d53</div>
+                        <div class="message">🟩 ePlus DEV Tools is up (200 in 196 ms) [skip ci] [upptime]</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#e00d5c7</div>
+                        <div class="message">🟩 ePlus ZingMP3 is up (200 in 215 ms) [skip ci] [upptime]</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#28ea50a</div>
+                        <div class="message">🟩 ePlus Top GitHub Users is up (200 in 182 ms) [skip ci] [upptime]</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#0e9bf1d</div>
+                        <div class="message">🟩 Hỗ trợ hệ thống MWG is up (200 in 201 ms) [skip ci] [upptime]</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#89fd734</div>
+                        <div class="message">🟩 ePlus AirDrop is up (200 in 394 ms) [skip ci] [upptime]</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#565944f</div>
+                        <div class="message">🟩 ePlus JSON Crack Plus is up (200 in 288 ms) [skip ci] [upptime]</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#58db370</div>
+                        <div class="message">🟩 ePlus JSON Crack is up (200 in 204 ms) [skip ci] [upptime]</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#9b56cce</div>
+                        <div class="message">🟩 ePlus Analytics is up (200 in 625 ms) [skip ci] [upptime]</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#fe482a7</div>
+                        <div class="message">🟩 Graphql Studio is up (200 in 136 ms) [skip ci] [upptime]</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#33bc427</div>
+                        <div class="message">🟩 ePlus - Free For Dev is up (200 in 157 ms) [skip ci] [upptime]</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#1e316c6</div>
+                        <div class="message">🟩 ePlus - Top GitHub is up (200 in 171 ms) [skip ci] [upptime]</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#60423ab</div>
+                        <div class="message">🟩 ePlus - Top GitHub Users is up (200 in 234 ms) [skip ci] [upptime]</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#0aa7e7d</div>
+                        <div class="message">🟩 ePlus News is up (200 in 313 ms) [skip ci] [upptime]</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#5eed0b3</div>
+                        <div class="message">🟩 Xe is up (429 in 295 ms) [skip ci] [upptime]</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#11e9524</div>
+                        <div class="message">🟩 ePlus Radio (New) is up (200 in 211 ms) [skip ci] [upptime]</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#8932d2b</div>
+                        <div class="message">🟩 ePlus Radio is up (200 in 178 ms) [skip ci] [upptime]</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#b5c994a</div>
+                        <div class="message">🟩 ePlus.DEV is up (200 in 299 ms) [skip ci] [upptime]</div>
+                      </div>
+                    
+                  </div>
+                
+                
+                
+                
+                
+              </section>
+            </div>
+          
+            <div class="row fill-width">
+              <section class="activity">
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                  <div class="field">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
+                    <div class="content">
+                      Pushed 1 commit in <span class="repo">ePlus-DEV/view-counter</span>
+                    </div>
+                  </div>
+                  <div class="details">
+                    
+                      <div>on branch <span class="code">main</span></div>
+                    
+                    
+                      <div class="commit">
+                        <div class="sha">#8e28487</div>
+                        <div class="message">Update views</div>
+                      </div>
+                    
+                  </div>
+                
+                
+                
+                
+                
+              </section>
+            </div>
+          
+            <div class="row fill-width">
+              <section class="activity">
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                  <div class="field">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
+                    <div class="content">
+                      Pushed 1 commit in <span class="repo">hoangsvit/github-profile-views-counter</span>
+                    </div>
+                  </div>
+                  <div class="details">
+                    
+                      <div>on branch <span class="code">main</span></div>
+                    
+                    
+                      <div class="commit">
+                        <div class="sha">#7e320a2</div>
+                        <div class="message">Update views</div>
+                      </div>
+                    
+                  </div>
+                
+                
+                
+                
+                
+              </section>
+            </div>
+          
+            <div class="row fill-width">
+              <section class="activity">
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                  <div class="field">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
+                    <div class="content">
                       Pushed 1 commit in <span class="repo">ePlus-DEV/view-counter</span>
                     </div>
                   </div>
@@ -1807,114 +2010,6 @@
                     
                       <div class="commit">
                         <div class="sha">#1d56a55</div>
-                        <div class="message">Update views</div>
-                      </div>
-                    
-                  </div>
-                
-                
-                
-                
-                
-              </section>
-            </div>
-          
-            <div class="row fill-width">
-              <section class="activity">
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                  <div class="field">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-                    <div class="content">
-                      Pushed 1 commit in <span class="repo">ePlus-DEV/view-counter</span>
-                    </div>
-                  </div>
-                  <div class="details">
-                    
-                      <div>on branch <span class="code">main</span></div>
-                    
-                    
-                      <div class="commit">
-                        <div class="sha">#b7f9ee7</div>
-                        <div class="message">Update views</div>
-                      </div>
-                    
-                  </div>
-                
-                
-                
-                
-                
-              </section>
-            </div>
-          
-            <div class="row fill-width">
-              <section class="activity">
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                  <div class="field">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-                    <div class="content">
-                      Pushed 1 commit in <span class="repo">hoangsvit/github-profile-views-counter</span>
-                    </div>
-                  </div>
-                  <div class="details">
-                    
-                      <div>on branch <span class="code">main</span></div>
-                    
-                    
-                      <div class="commit">
-                        <div class="sha">#2685916</div>
-                        <div class="message">Update views</div>
-                      </div>
-                    
-                  </div>
-                
-                
-                
-                
-                
-              </section>
-            </div>
-          
-            <div class="row fill-width">
-              <section class="activity">
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                  <div class="field">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-                    <div class="content">
-                      Pushed 1 commit in <span class="repo">ePlus-DEV/view-counter</span>
-                    </div>
-                  </div>
-                  <div class="details">
-                    
-                      <div>on branch <span class="code">main</span></div>
-                    
-                    
-                      <div class="commit">
-                        <div class="sha">#2a8fca7</div>
                         <div class="message">Update views</div>
                       </div>
                     
