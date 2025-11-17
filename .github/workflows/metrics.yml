@@ -49,8 +49,8 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_activity: yes
-          plugin_activity_limit: 5
-          plugin_activity_days: 0
+          # plugin_activity_limit: 5
+          # plugin_activity_days: 0
           config_timezone: Asia/Saigon
 
       - name: Followers
