@@ -1,6 +1,6 @@
 name: Get Metrics
 on:
-  schedule: [{ cron: "*/5 * * * *" }]
+  schedule: [{ cron: "0 */6 * * *" }]
   workflow_dispatch:
   push: { branches: ["master", "main"] }
 jobs:
@@ -50,8 +50,11 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_activity: yes
-          # plugin_activity_limit: 5
-          # plugin_activity_days: 0
+          plugin_activity_limit: 5
+          plugin_activity_load: 300
+          plugin_activity_days: 0
+          plugin_activity_visibility: all
+          plugin_activity_timestamps: no
           plugin_activity_filter: issue, pr, release, fork, review, ref/create
           config_timezone: Asia/Saigon
 
