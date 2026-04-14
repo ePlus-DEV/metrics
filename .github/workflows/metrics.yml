@@ -13,7 +13,7 @@ jobs:
       contents: write
     steps:
       - name: Classic
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.34
         with:
           user: hoangsvit
           filename: img/classic.svg
@@ -26,7 +26,7 @@ jobs:
           plugin_lines: yes
 
       - name: Achievements Compact display
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.34
         with:
           user: hoangsvit
           filename: img/achievements.compact.svg
@@ -36,13 +36,14 @@ jobs:
           base: ""
           plugin_achievements: yes
           plugin_achievements_only: >-
-            polyglot, stargazer, sponsor, deployer, member, maintainer, developer, scripter, packager, explorer, infographile, manager
+            polyglot, stargazer, deployer, member, maintainer, developer, scripter, packager, explorer, infographile, manager
           plugin_achievements_display: compact
-          plugin_achievements_threshold: X
+          plugin_achievements_threshold: C
 
       - name: Recent activity
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.34
         with:
+          user: hoangsvit
           filename: img/activity.svg
           optimize: svg
           experimental_features: --optimize-svg
@@ -55,7 +56,7 @@ jobs:
           config_timezone: Asia/Saigon
 
       - name: Followers
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.34
         with:
           user: hoangsvit
           filename: img/people.followers.svg
@@ -67,7 +68,7 @@ jobs:
           plugin_people_types: followers
 
       - name: Languages most used
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.34
         with:
           filename: img/languages.svg
           optimize: svg
@@ -77,7 +78,7 @@ jobs:
           plugin_languages: yes
 
       - name: WakaTime
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.34
         with:
           filename: img/wakatime.svg
           optimize: svg
@@ -90,7 +91,7 @@ jobs:
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
 
       - name: LeetCode
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.34
         with:
           filename: img/leetcode.svg
           optimize: svg
@@ -102,7 +103,7 @@ jobs:
           plugin_leetcode_sections: solved, skills, recent
 
       - name: PageSpeed to eplus.dev
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.34
         with:
           filename: img/pagespeed-eplus.dev.svg
           optimize: svg
