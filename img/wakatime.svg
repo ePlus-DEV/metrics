@@ -1807,25 +1807,25 @@
                   
                     <div class="entry">
                       <span class="name">G-Front</span>
-                      <div class="bar" style="width: 27.639999999999997%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                      <div class="bar" style="width: 27.688000000000002%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                       <span class="value">35%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">G-Api</span>
-                      <div class="bar" style="width: 25.152%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                      <div class="bar" style="width: 24.968%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                       <span class="value">31%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">g-queue</span>
-                      <div class="bar" style="width: 8.392000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                      <span class="value">10%</span>
+                      <div class="bar" style="width: 8.431999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <span class="value">11%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">G-Back</span>
-                      <div class="bar" style="width: 5.392%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <div class="bar" style="width: 5.4%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                       <span class="value">7%</span>
                     </div>
                   
@@ -1846,7 +1846,7 @@
                   
                     <div class="entry">
                       <span class="name">PHP</span>
-                      <div class="bar" style="width: 35.544%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                      <div class="bar" style="width: 35.368%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                       <span class="value">44%</span>
                     </div>
                   
@@ -1864,13 +1864,13 @@
                   
                     <div class="entry">
                       <span class="name">TypeScript</span>
-                      <div class="bar" style="width: 6.311999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <div class="bar" style="width: 6.384%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                       <span class="value">8%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">Other</span>
-                      <div class="bar" style="width: 6.2%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <div class="bar" style="width: 6.248%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                       <span class="value">8%</span>
                     </div>
                   
